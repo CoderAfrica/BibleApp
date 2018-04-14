@@ -1,1 +1,398 @@
-[{"abbrev":"gn","bookname":"Genesis","noOfChapter":50,"bookid":1},{"abbrev":"ex","bookname":"Exodus","noOfChapter":40,"bookid":2},{"abbrev":"lv","bookname":"Leviticus","noOfChapter":27,"bookid":3},{"abbrev":"nm","bookname":"Numbers","noOfChapter":36,"bookid":4},{"abbrev":"dt","bookname":"Deuteronomy","noOfChapter":34,"bookid":5},{"abbrev":"js","bookname":"Joshua","noOfChapter":24,"bookid":6},{"abbrev":"jud","bookname":"Judges","noOfChapter":21,"bookid":7},{"abbrev":"rt","bookname":"Ruth","noOfChapter":4,"bookid":8},{"abbrev":"1sm","bookname":"1 Samuel","noOfChapter":31,"bookid":9},{"abbrev":"2sm","bookname":"2 Samuel","noOfChapter":24,"bookid":10},{"abbrev":"1kgs","bookname":"1 Kings","noOfChapter":22,"bookid":11},{"abbrev":"2kgs","bookname":"2 Kings","noOfChapter":25,"bookid":12},{"abbrev":"1ch","bookname":"1 Chronicles","noOfChapter":29,"bookid":13},{"abbrev":"2ch","bookname":"2 Chronicles","noOfChapter":36,"bookid":14},{"abbrev":"ezr","bookname":"Ezra","noOfChapter":10,"bookid":15},{"abbrev":"ne","bookname":"Nehemiah","noOfChapter":13,"bookid":16},{"abbrev":"et","bookname":"Esther","noOfChapter":10,"bookid":17},{"abbrev":"job","bookname":"Job","noOfChapter":42,"bookid":18},{"abbrev":"ps","bookname":"Psalms","noOfChapter":150,"bookid":19},{"abbrev":"prv","bookname":"Proverbs","noOfChapter":31,"bookid":20},{"abbrev":"ec","bookname":"Ecclesiastes","noOfChapter":12,"bookid":21},{"abbrev":"so","bookname":"Song of Solomon","noOfChapter":8,"bookid":22},{"abbrev":"is","bookname":"Isaiah","noOfChapter":66,"bookid":23},{"abbrev":"jr","bookname":"Jeremiah","noOfChapter":52,"bookid":24},{"abbrev":"lm","bookname":"Lamentations","noOfChapter":5,"bookid":25},{"abbrev":"ez","bookname":"Ezekiel","noOfChapter":48,"bookid":26},{"abbrev":"dn","bookname":"Daniel","noOfChapter":12,"bookid":27},{"abbrev":"ho","bookname":"Hosea","noOfChapter":14,"bookid":28},{"abbrev":"jl","bookname":"Joel","noOfChapter":3,"bookid":29},{"abbrev":"am","bookname":"Amos","noOfChapter":9,"bookid":30},{"abbrev":"ob","bookname":"Obadiah","noOfChapter":1,"bookid":31},{"abbrev":"jn","bookname":"Jonah","noOfChapter":4,"bookid":32},{"abbrev":"mi","bookname":"Micah","noOfChapter":7,"bookid":33},{"abbrev":"na","bookname":"Nahum","noOfChapter":3,"bookid":34},{"abbrev":"hk","bookname":"Habakkuk","noOfChapter":3,"bookid":35},{"abbrev":"zp","bookname":"Zephaniah","noOfChapter":3,"bookid":36},{"abbrev":"hg","bookname":"Haggai","noOfChapter":2,"bookid":37},{"abbrev":"zc","bookname":"Zechariah","noOfChapter":14,"bookid":38},{"abbrev":"ml","bookname":"Malachi","noOfChapter":4,"bookid":39},{"abbrev":"mt","bookname":"Matthew","noOfChapter":28,"bookid":40},{"abbrev":"mk","bookname":"Mark","noOfChapter":16,"bookid":41},{"abbrev":"lk","bookname":"Luke","noOfChapter":24,"bookid":42},{"abbrev":"jo","bookname":"John","noOfChapter":21,"bookid":43},{"abbrev":"act","bookname":"Acts","noOfChapter":28,"bookid":44},{"abbrev":"rm","bookname":"Romans","noOfChapter":16,"bookid":45},{"abbrev":"1co","bookname":"1 Corinthians","noOfChapter":16,"bookid":46},{"abbrev":"2co","bookname":"2 Corinthians","noOfChapter":13,"bookid":47},{"abbrev":"gl","bookname":"Galatians","noOfChapter":6,"bookid":48},{"abbrev":"eph","bookname":"Ephesians","noOfChapter":6,"bookid":49},{"abbrev":"ph","bookname":"Philippians","noOfChapter":4,"bookid":50},{"abbrev":"cl","bookname":"Colossians","noOfChapter":4,"bookid":51},{"abbrev":"1ts","bookname":"1 Thessalonians","noOfChapter":5,"bookid":52},{"abbrev":"2ts","bookname":"2 Thessalonians","noOfChapter":3,"bookid":53},{"abbrev":"1tm","bookname":"1 Timothy","noOfChapter":6,"bookid":54},{"abbrev":"2tm","bookname":"2 Timothy","noOfChapter":4,"bookid":55},{"abbrev":"tt","bookname":"Titus","noOfChapter":3,"bookid":56},{"abbrev":"phm","bookname":"Philemon","noOfChapter":1,"bookid":57},{"abbrev":"hb","bookname":"Hebrews","noOfChapter":13,"bookid":58},{"abbrev":"jm","bookname":"James","noOfChapter":5,"bookid":59},{"abbrev":"1pe","bookname":"1 Peter","noOfChapter":5,"bookid":60},{"abbrev":"2pe","bookname":"2 Peter","noOfChapter":3,"bookid":61},{"abbrev":"1jo","bookname":"1 John","noOfChapter":3,"bookid":62},{"abbrev":"2jo","bookname":"2 John","noOfChapter":1,"bookid":63},{"abbrev":"3jo","bookname":"3 John","noOfChapter":1,"bookid":64},{"abbrev":"jd","bookname":"Jude","noOfChapter":1,"bookid":65},{"abbrev":"re","bookname":"Revelation","noOfChapter":22,"bookid":66}]
+[
+  {
+    "abbrev": "gn",
+    "bookname": "Genesis",
+    "noOfChapter": 50,
+    "bookid": 1
+  },
+  {
+    "abbrev": "ex",
+    "bookname": "Exodus",
+    "noOfChapter": 40,
+    "bookid": 2
+  },
+  {
+    "abbrev": "lv",
+    "bookname": "Leviticus",
+    "noOfChapter": 27,
+    "bookid": 3
+  },
+  {
+    "abbrev": "nm",
+    "bookname": "Numbers",
+    "noOfChapter": 36,
+    "bookid": 4
+  },
+  {
+    "abbrev": "dt",
+    "bookname": "Deuteronomy",
+    "noOfChapter": 34,
+    "bookid": 5
+  },
+  {
+    "abbrev": "js",
+    "bookname": "Joshua",
+    "noOfChapter": 24,
+    "bookid": 6
+  },
+  {
+    "abbrev": "jud",
+    "bookname": "Judges",
+    "noOfChapter": 21,
+    "bookid": 7
+  },
+  {
+    "abbrev": "rt",
+    "bookname": "Ruth",
+    "noOfChapter": 4,
+    "bookid": 8
+  },
+  {
+    "abbrev": "1sm",
+    "bookname": "1 Samuel",
+    "noOfChapter": 31,
+    "bookid": 9
+  },
+  {
+    "abbrev": "2sm",
+    "bookname": "2 Samuel",
+    "noOfChapter": 24,
+    "bookid": 10
+  },
+  {
+    "abbrev": "1kgs",
+    "bookname": "1 Kings",
+    "noOfChapter": 22,
+    "bookid": 11
+  },
+  {
+    "abbrev": "2kgs",
+    "bookname": "2 Kings",
+    "noOfChapter": 25,
+    "bookid": 12
+  },
+  {
+    "abbrev": "1ch",
+    "bookname": "1 Chronicles",
+    "noOfChapter": 29,
+    "bookid": 13
+  },
+  {
+    "abbrev": "2ch",
+    "bookname": "2 Chronicles",
+    "noOfChapter": 36,
+    "bookid": 14
+  },
+  {
+    "abbrev": "ezr",
+    "bookname": "Ezra",
+    "noOfChapter": 10,
+    "bookid": 15
+  },
+  {
+    "abbrev": "ne",
+    "bookname": "Nehemiah",
+    "noOfChapter": 13,
+    "bookid": 16
+  },
+  {
+    "abbrev": "et",
+    "bookname": "Esther",
+    "noOfChapter": 10,
+    "bookid": 17
+  },
+  {
+    "abbrev": "job",
+    "bookname": "Job",
+    "noOfChapter": 42,
+    "bookid": 18
+  },
+  {
+    "abbrev": "ps",
+    "bookname": "Psalms",
+    "noOfChapter": 150,
+    "bookid": 19
+  },
+  {
+    "abbrev": "prv",
+    "bookname": "Proverbs",
+    "noOfChapter": 31,
+    "bookid": 20
+  },
+  {
+    "abbrev": "ec",
+    "bookname": "Ecclesiastes",
+    "noOfChapter": 12,
+    "bookid": 21
+  },
+  {
+    "abbrev": "so",
+    "bookname": "Song of Solomon",
+    "noOfChapter": 8,
+    "bookid": 22
+  },
+  {
+    "abbrev": "is",
+    "bookname": "Isaiah",
+    "noOfChapter": 66,
+    "bookid": 23
+  },
+  {
+    "abbrev": "jr",
+    "bookname": "Jeremiah",
+    "noOfChapter": 52,
+    "bookid": 24
+  },
+  {
+    "abbrev": "lm",
+    "bookname": "Lamentations",
+    "noOfChapter": 5,
+    "bookid": 25
+  },
+  {
+    "abbrev": "ez",
+    "bookname": "Ezekiel",
+    "noOfChapter": 48,
+    "bookid": 26
+  },
+  {
+    "abbrev": "dn",
+    "bookname": "Daniel",
+    "noOfChapter": 12,
+    "bookid": 27
+  },
+  {
+    "abbrev": "ho",
+    "bookname": "Hosea",
+    "noOfChapter": 14,
+    "bookid": 28
+  },
+  {
+    "abbrev": "jl",
+    "bookname": "Joel",
+    "noOfChapter": 3,
+    "bookid": 29
+  },
+  {
+    "abbrev": "am",
+    "bookname": "Amos",
+    "noOfChapter": 9,
+    "bookid": 30
+  },
+  {
+    "abbrev": "ob",
+    "bookname": "Obadiah",
+    "noOfChapter": 1,
+    "bookid": 31
+  },
+  {
+    "abbrev": "jn",
+    "bookname": "Jonah",
+    "noOfChapter": 4,
+    "bookid": 32
+  },
+  {
+    "abbrev": "mi",
+    "bookname": "Micah",
+    "noOfChapter": 7,
+    "bookid": 33
+  },
+  {
+    "abbrev": "na",
+    "bookname": "Nahum",
+    "noOfChapter": 3,
+    "bookid": 34
+  },
+  {
+    "abbrev": "hk",
+    "bookname": "Habakkuk",
+    "noOfChapter": 3,
+    "bookid": 35
+  },
+  {
+    "abbrev": "zp",
+    "bookname": "Zephaniah",
+    "noOfChapter": 3,
+    "bookid": 36
+  },
+  {
+    "abbrev": "hg",
+    "bookname": "Haggai",
+    "noOfChapter": 2,
+    "bookid": 37
+  },
+  {
+    "abbrev": "zc",
+    "bookname": "Zechariah",
+    "noOfChapter": 14,
+    "bookid": 38
+  },
+  {
+    "abbrev": "ml",
+    "bookname": "Malachi",
+    "noOfChapter": 4,
+    "bookid": 39
+  },
+  {
+    "abbrev": "mt",
+    "bookname": "Matthew",
+    "noOfChapter": 28,
+    "bookid": 40
+  },
+  {
+    "abbrev": "mk",
+    "bookname": "Mark",
+    "noOfChapter": 16,
+    "bookid": 41
+  },
+  {
+    "abbrev": "lk",
+    "bookname": "Luke",
+    "noOfChapter": 24,
+    "bookid": 42
+  },
+  {
+    "abbrev": "jo",
+    "bookname": "John",
+    "noOfChapter": 21,
+    "bookid": 43
+  },
+  {
+    "abbrev": "act",
+    "bookname": "Acts",
+    "noOfChapter": 28,
+    "bookid": 44
+  },
+  {
+    "abbrev": "rm",
+    "bookname": "Romans",
+    "noOfChapter": 16,
+    "bookid": 45
+  },
+  {
+    "abbrev": "1co",
+    "bookname": "1 Corinthians",
+    "noOfChapter": 16,
+    "bookid": 46
+  },
+  {
+    "abbrev": "2co",
+    "bookname": "2 Corinthians",
+    "noOfChapter": 13,
+    "bookid": 47
+  },
+  {
+    "abbrev": "gl",
+    "bookname": "Galatians",
+    "noOfChapter": 6,
+    "bookid": 48
+  },
+  {
+    "abbrev": "eph",
+    "bookname": "Ephesians",
+    "noOfChapter": 6,
+    "bookid": 49
+  },
+  {
+    "abbrev": "ph",
+    "bookname": "Philippians",
+    "noOfChapter": 4,
+    "bookid": 50
+  },
+  {
+    "abbrev": "cl",
+    "bookname": "Colossians",
+    "noOfChapter": 4,
+    "bookid": 51
+  },
+  {
+    "abbrev": "1ts",
+    "bookname": "1 Thessalonians",
+    "noOfChapter": 5,
+    "bookid": 52
+  },
+  {
+    "abbrev": "2ts",
+    "bookname": "2 Thessalonians",
+    "noOfChapter": 3,
+    "bookid": 53
+  },
+  {
+    "abbrev": "1tm",
+    "bookname": "1 Timothy",
+    "noOfChapter": 6,
+    "bookid": 54
+  },
+  {
+    "abbrev": "2tm",
+    "bookname": "2 Timothy",
+    "noOfChapter": 4,
+    "bookid": 55
+  },
+  {
+    "abbrev": "tt",
+    "bookname": "Titus",
+    "noOfChapter": 3,
+    "bookid": 56
+  },
+  {
+    "abbrev": "phm",
+    "bookname": "Philemon",
+    "noOfChapter": 1,
+    "bookid": 57
+  },
+  {
+    "abbrev": "hb",
+    "bookname": "Hebrews",
+    "noOfChapter": 13,
+    "bookid": 58
+  },
+  {
+    "abbrev": "jm",
+    "bookname": "James",
+    "noOfChapter": 5,
+    "bookid": 59
+  },
+  {
+    "abbrev": "1pe",
+    "bookname": "1 Peter",
+    "noOfChapter": 5,
+    "bookid": 60
+  },
+  {
+    "abbrev": "2pe",
+    "bookname": "2 Peter",
+    "noOfChapter": 3,
+    "bookid": 61
+  },
+  {
+    "abbrev": "1jo",
+    "bookname": "1 John",
+    "noOfChapter": 3,
+    "bookid": 62
+  },
+  {
+    "abbrev": "2jo",
+    "bookname": "2 John",
+    "noOfChapter": 1,
+    "bookid": 63
+  },
+  {
+    "abbrev": "3jo",
+    "bookname": "3 John",
+    "noOfChapter": 1,
+    "bookid": 64
+  },
+  {
+    "abbrev": "jd",
+    "bookname": "Jude",
+    "noOfChapter": 1,
+    "bookid": 65
+  },
+  {
+    "abbrev": "re",
+    "bookname": "Revelation",
+    "noOfChapter": 22,
+    "bookid": 66
+  }
+]

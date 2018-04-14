@@ -2,12 +2,15 @@ package com.ayodele.bible.base
 
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
+import io.realm.Realm
 
-abstract class MVPDaggerActivity<V : MVPContract.View, out P : MVPContract.Presenter<V>,
+abstract class MVPDaggerRealmActivity<V : MVPContract.View, out P : MVPContract.Presenter<V>,
         out C : MVPContract.Component<V, P>> : AppCompatActivity(), MVPContract.View {
 
     protected val presenter: P by lazy { component.presenter() }
     protected val component: C by lazy { createComponent() }
+
+    lateinit var realm: Realm
 
     protected abstract fun createComponent(): C
 
@@ -16,11 +19,13 @@ abstract class MVPDaggerActivity<V : MVPContract.View, out P : MVPContract.Prese
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         presenter.attachView(this as V)
+        realm = Realm.getDefaultInstance()
     }
 
     override fun onDestroy() {
         super.onDestroy()
         presenter.detachView()
+        realm.close()
     }
 
 }

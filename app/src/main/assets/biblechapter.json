@@ -1,1 +1,5937 @@
-[{"chapterid":1,"noOfVerses":31,"bookid":1},{"chapterid":2,"noOfVerses":25,"bookid":1},{"chapterid":3,"noOfVerses":24,"bookid":1},{"chapterid":4,"noOfVerses":26,"bookid":1},{"chapterid":5,"noOfVerses":32,"bookid":1},{"chapterid":6,"noOfVerses":22,"bookid":1},{"chapterid":7,"noOfVerses":24,"bookid":1},{"chapterid":8,"noOfVerses":22,"bookid":1},{"chapterid":9,"noOfVerses":29,"bookid":1},{"chapterid":10,"noOfVerses":32,"bookid":1},{"chapterid":11,"noOfVerses":32,"bookid":1},{"chapterid":12,"noOfVerses":20,"bookid":1},{"chapterid":13,"noOfVerses":18,"bookid":1},{"chapterid":14,"noOfVerses":24,"bookid":1},{"chapterid":15,"noOfVerses":21,"bookid":1},{"chapterid":16,"noOfVerses":16,"bookid":1},{"chapterid":17,"noOfVerses":27,"bookid":1},{"chapterid":18,"noOfVerses":33,"bookid":1},{"chapterid":19,"noOfVerses":38,"bookid":1},{"chapterid":20,"noOfVerses":18,"bookid":1},{"chapterid":21,"noOfVerses":34,"bookid":1},{"chapterid":22,"noOfVerses":24,"bookid":1},{"chapterid":23,"noOfVerses":20,"bookid":1},{"chapterid":24,"noOfVerses":67,"bookid":1},{"chapterid":25,"noOfVerses":34,"bookid":1},{"chapterid":26,"noOfVerses":35,"bookid":1},{"chapterid":27,"noOfVerses":46,"bookid":1},{"chapterid":28,"noOfVerses":22,"bookid":1},{"chapterid":29,"noOfVerses":35,"bookid":1},{"chapterid":30,"noOfVerses":43,"bookid":1},{"chapterid":31,"noOfVerses":55,"bookid":1},{"chapterid":32,"noOfVerses":32,"bookid":1},{"chapterid":33,"noOfVerses":20,"bookid":1},{"chapterid":34,"noOfVerses":31,"bookid":1},{"chapterid":35,"noOfVerses":29,"bookid":1},{"chapterid":36,"noOfVerses":43,"bookid":1},{"chapterid":37,"noOfVerses":36,"bookid":1},{"chapterid":38,"noOfVerses":30,"bookid":1},{"chapterid":39,"noOfVerses":23,"bookid":1},{"chapterid":40,"noOfVerses":23,"bookid":1},{"chapterid":41,"noOfVerses":57,"bookid":1},{"chapterid":42,"noOfVerses":38,"bookid":1},{"chapterid":43,"noOfVerses":34,"bookid":1},{"chapterid":44,"noOfVerses":34,"bookid":1},{"chapterid":45,"noOfVerses":28,"bookid":1},{"chapterid":46,"noOfVerses":34,"bookid":1},{"chapterid":47,"noOfVerses":31,"bookid":1},{"chapterid":48,"noOfVerses":22,"bookid":1},{"chapterid":49,"noOfVerses":33,"bookid":1},{"chapterid":50,"noOfVerses":26,"bookid":1},{"chapterid":1,"noOfVerses":22,"bookid":2},{"chapterid":2,"noOfVerses":25,"bookid":2},{"chapterid":3,"noOfVerses":22,"bookid":2},{"chapterid":4,"noOfVerses":31,"bookid":2},{"chapterid":5,"noOfVerses":23,"bookid":2},{"chapterid":6,"noOfVerses":30,"bookid":2},{"chapterid":7,"noOfVerses":25,"bookid":2},{"chapterid":8,"noOfVerses":32,"bookid":2},{"chapterid":9,"noOfVerses":35,"bookid":2},{"chapterid":10,"noOfVerses":29,"bookid":2},{"chapterid":11,"noOfVerses":10,"bookid":2},{"chapterid":12,"noOfVerses":51,"bookid":2},{"chapterid":13,"noOfVerses":22,"bookid":2},{"chapterid":14,"noOfVerses":31,"bookid":2},{"chapterid":15,"noOfVerses":27,"bookid":2},{"chapterid":16,"noOfVerses":36,"bookid":2},{"chapterid":17,"noOfVerses":16,"bookid":2},{"chapterid":18,"noOfVerses":27,"bookid":2},{"chapterid":19,"noOfVerses":25,"bookid":2},{"chapterid":20,"noOfVerses":26,"bookid":2},{"chapterid":21,"noOfVerses":36,"bookid":2},{"chapterid":22,"noOfVerses":31,"bookid":2},{"chapterid":23,"noOfVerses":33,"bookid":2},{"chapterid":24,"noOfVerses":18,"bookid":2},{"chapterid":25,"noOfVerses":40,"bookid":2},{"chapterid":26,"noOfVerses":37,"bookid":2},{"chapterid":27,"noOfVerses":21,"bookid":2},{"chapterid":28,"noOfVerses":43,"bookid":2},{"chapterid":29,"noOfVerses":46,"bookid":2},{"chapterid":30,"noOfVerses":38,"bookid":2},{"chapterid":31,"noOfVerses":18,"bookid":2},{"chapterid":32,"noOfVerses":35,"bookid":2},{"chapterid":33,"noOfVerses":23,"bookid":2},{"chapterid":34,"noOfVerses":35,"bookid":2},{"chapterid":35,"noOfVerses":35,"bookid":2},{"chapterid":36,"noOfVerses":38,"bookid":2},{"chapterid":37,"noOfVerses":29,"bookid":2},{"chapterid":38,"noOfVerses":31,"bookid":2},{"chapterid":39,"noOfVerses":43,"bookid":2},{"chapterid":40,"noOfVerses":38,"bookid":2},{"chapterid":1,"noOfVerses":17,"bookid":3},{"chapterid":2,"noOfVerses":16,"bookid":3},{"chapterid":3,"noOfVerses":17,"bookid":3},{"chapterid":4,"noOfVerses":35,"bookid":3},{"chapterid":5,"noOfVerses":19,"bookid":3},{"chapterid":6,"noOfVerses":30,"bookid":3},{"chapterid":7,"noOfVerses":38,"bookid":3},{"chapterid":8,"noOfVerses":36,"bookid":3},{"chapterid":9,"noOfVerses":24,"bookid":3},{"chapterid":10,"noOfVerses":20,"bookid":3},{"chapterid":11,"noOfVerses":47,"bookid":3},{"chapterid":12,"noOfVerses":8,"bookid":3},{"chapterid":13,"noOfVerses":59,"bookid":3},{"chapterid":14,"noOfVerses":57,"bookid":3},{"chapterid":15,"noOfVerses":33,"bookid":3},{"chapterid":16,"noOfVerses":34,"bookid":3},{"chapterid":17,"noOfVerses":16,"bookid":3},{"chapterid":18,"noOfVerses":30,"bookid":3},{"chapterid":19,"noOfVerses":37,"bookid":3},{"chapterid":20,"noOfVerses":27,"bookid":3},{"chapterid":21,"noOfVerses":24,"bookid":3},{"chapterid":22,"noOfVerses":33,"bookid":3},{"chapterid":23,"noOfVerses":44,"bookid":3},{"chapterid":24,"noOfVerses":23,"bookid":3},{"chapterid":25,"noOfVerses":55,"bookid":3},{"chapterid":26,"noOfVerses":46,"bookid":3},{"chapterid":27,"noOfVerses":34,"bookid":3},{"chapterid":1,"noOfVerses":54,"bookid":4},{"chapterid":2,"noOfVerses":34,"bookid":4},{"chapterid":3,"noOfVerses":51,"bookid":4},{"chapterid":4,"noOfVerses":49,"bookid":4},{"chapterid":5,"noOfVerses":31,"bookid":4},{"chapterid":6,"noOfVerses":27,"bookid":4},{"chapterid":7,"noOfVerses":89,"bookid":4},{"chapterid":8,"noOfVerses":26,"bookid":4},{"chapterid":9,"noOfVerses":23,"bookid":4},{"chapterid":10,"noOfVerses":36,"bookid":4},{"chapterid":11,"noOfVerses":35,"bookid":4},{"chapterid":12,"noOfVerses":16,"bookid":4},{"chapterid":13,"noOfVerses":33,"bookid":4},{"chapterid":14,"noOfVerses":45,"bookid":4},{"chapterid":15,"noOfVerses":41,"bookid":4},{"chapterid":16,"noOfVerses":50,"bookid":4},{"chapterid":17,"noOfVerses":13,"bookid":4},{"chapterid":18,"noOfVerses":32,"bookid":4},{"chapterid":19,"noOfVerses":22,"bookid":4},{"chapterid":20,"noOfVerses":29,"bookid":4},{"chapterid":21,"noOfVerses":35,"bookid":4},{"chapterid":22,"noOfVerses":41,"bookid":4},{"chapterid":23,"noOfVerses":30,"bookid":4},{"chapterid":24,"noOfVerses":25,"bookid":4},{"chapterid":25,"noOfVerses":18,"bookid":4},{"chapterid":26,"noOfVerses":65,"bookid":4},{"chapterid":27,"noOfVerses":23,"bookid":4},{"chapterid":28,"noOfVerses":31,"bookid":4},{"chapterid":29,"noOfVerses":40,"bookid":4},{"chapterid":30,"noOfVerses":16,"bookid":4},{"chapterid":31,"noOfVerses":54,"bookid":4},{"chapterid":32,"noOfVerses":42,"bookid":4},{"chapterid":33,"noOfVerses":56,"bookid":4},{"chapterid":34,"noOfVerses":29,"bookid":4},{"chapterid":35,"noOfVerses":34,"bookid":4},{"chapterid":36,"noOfVerses":13,"bookid":4},{"chapterid":1,"noOfVerses":46,"bookid":5},{"chapterid":2,"noOfVerses":37,"bookid":5},{"chapterid":3,"noOfVerses":29,"bookid":5},{"chapterid":4,"noOfVerses":49,"bookid":5},{"chapterid":5,"noOfVerses":33,"bookid":5},{"chapterid":6,"noOfVerses":25,"bookid":5},{"chapterid":7,"noOfVerses":26,"bookid":5},{"chapterid":8,"noOfVerses":20,"bookid":5},{"chapterid":9,"noOfVerses":29,"bookid":5},{"chapterid":10,"noOfVerses":22,"bookid":5},{"chapterid":11,"noOfVerses":32,"bookid":5},{"chapterid":12,"noOfVerses":32,"bookid":5},{"chapterid":13,"noOfVerses":18,"bookid":5},{"chapterid":14,"noOfVerses":29,"bookid":5},{"chapterid":15,"noOfVerses":23,"bookid":5},{"chapterid":16,"noOfVerses":22,"bookid":5},{"chapterid":17,"noOfVerses":20,"bookid":5},{"chapterid":18,"noOfVerses":22,"bookid":5},{"chapterid":19,"noOfVerses":21,"bookid":5},{"chapterid":20,"noOfVerses":20,"bookid":5},{"chapterid":21,"noOfVerses":23,"bookid":5},{"chapterid":22,"noOfVerses":30,"bookid":5},{"chapterid":23,"noOfVerses":25,"bookid":5},{"chapterid":24,"noOfVerses":22,"bookid":5},{"chapterid":25,"noOfVerses":19,"bookid":5},{"chapterid":26,"noOfVerses":19,"bookid":5},{"chapterid":27,"noOfVerses":26,"bookid":5},{"chapterid":28,"noOfVerses":68,"bookid":5},{"chapterid":29,"noOfVerses":29,"bookid":5},{"chapterid":30,"noOfVerses":20,"bookid":5},{"chapterid":31,"noOfVerses":30,"bookid":5},{"chapterid":32,"noOfVerses":52,"bookid":5},{"chapterid":33,"noOfVerses":29,"bookid":5},{"chapterid":34,"noOfVerses":12,"bookid":5},{"chapterid":1,"noOfVerses":18,"bookid":6},{"chapterid":2,"noOfVerses":24,"bookid":6},{"chapterid":3,"noOfVerses":17,"bookid":6},{"chapterid":4,"noOfVerses":24,"bookid":6},{"chapterid":5,"noOfVerses":15,"bookid":6},{"chapterid":6,"noOfVerses":27,"bookid":6},{"chapterid":7,"noOfVerses":26,"bookid":6},{"chapterid":8,"noOfVerses":35,"bookid":6},{"chapterid":9,"noOfVerses":27,"bookid":6},{"chapterid":10,"noOfVerses":43,"bookid":6},{"chapterid":11,"noOfVerses":23,"bookid":6},{"chapterid":12,"noOfVerses":24,"bookid":6},{"chapterid":13,"noOfVerses":33,"bookid":6},{"chapterid":14,"noOfVerses":15,"bookid":6},{"chapterid":15,"noOfVerses":63,"bookid":6},{"chapterid":16,"noOfVerses":10,"bookid":6},{"chapterid":17,"noOfVerses":18,"bookid":6},{"chapterid":18,"noOfVerses":28,"bookid":6},{"chapterid":19,"noOfVerses":51,"bookid":6},{"chapterid":20,"noOfVerses":9,"bookid":6},{"chapterid":21,"noOfVerses":45,"bookid":6},{"chapterid":22,"noOfVerses":34,"bookid":6},{"chapterid":23,"noOfVerses":16,"bookid":6},{"chapterid":24,"noOfVerses":33,"bookid":6},{"chapterid":1,"noOfVerses":36,"bookid":7},{"chapterid":2,"noOfVerses":23,"bookid":7},{"chapterid":3,"noOfVerses":31,"bookid":7},{"chapterid":4,"noOfVerses":24,"bookid":7},{"chapterid":5,"noOfVerses":31,"bookid":7},{"chapterid":6,"noOfVerses":40,"bookid":7},{"chapterid":7,"noOfVerses":25,"bookid":7},{"chapterid":8,"noOfVerses":35,"bookid":7},{"chapterid":9,"noOfVerses":57,"bookid":7},{"chapterid":10,"noOfVerses":18,"bookid":7},{"chapterid":11,"noOfVerses":40,"bookid":7},{"chapterid":12,"noOfVerses":15,"bookid":7},{"chapterid":13,"noOfVerses":25,"bookid":7},{"chapterid":14,"noOfVerses":20,"bookid":7},{"chapterid":15,"noOfVerses":20,"bookid":7},{"chapterid":16,"noOfVerses":31,"bookid":7},{"chapterid":17,"noOfVerses":13,"bookid":7},{"chapterid":18,"noOfVerses":31,"bookid":7},{"chapterid":19,"noOfVerses":30,"bookid":7},{"chapterid":20,"noOfVerses":48,"bookid":7},{"chapterid":21,"noOfVerses":25,"bookid":7},{"chapterid":1,"noOfVerses":22,"bookid":8},{"chapterid":2,"noOfVerses":23,"bookid":8},{"chapterid":3,"noOfVerses":18,"bookid":8},{"chapterid":4,"noOfVerses":22,"bookid":8},{"chapterid":1,"noOfVerses":28,"bookid":9},{"chapterid":2,"noOfVerses":36,"bookid":9},{"chapterid":3,"noOfVerses":21,"bookid":9},{"chapterid":4,"noOfVerses":22,"bookid":9},{"chapterid":5,"noOfVerses":12,"bookid":9},{"chapterid":6,"noOfVerses":21,"bookid":9},{"chapterid":7,"noOfVerses":17,"bookid":9},{"chapterid":8,"noOfVerses":22,"bookid":9},{"chapterid":9,"noOfVerses":27,"bookid":9},{"chapterid":10,"noOfVerses":27,"bookid":9},{"chapterid":11,"noOfVerses":15,"bookid":9},{"chapterid":12,"noOfVerses":25,"bookid":9},{"chapterid":13,"noOfVerses":23,"bookid":9},{"chapterid":14,"noOfVerses":52,"bookid":9},{"chapterid":15,"noOfVerses":35,"bookid":9},{"chapterid":16,"noOfVerses":23,"bookid":9},{"chapterid":17,"noOfVerses":58,"bookid":9},{"chapterid":18,"noOfVerses":30,"bookid":9},{"chapterid":19,"noOfVerses":24,"bookid":9},{"chapterid":20,"noOfVerses":42,"bookid":9},{"chapterid":21,"noOfVerses":15,"bookid":9},{"chapterid":22,"noOfVerses":23,"bookid":9},{"chapterid":23,"noOfVerses":29,"bookid":9},{"chapterid":24,"noOfVerses":22,"bookid":9},{"chapterid":25,"noOfVerses":44,"bookid":9},{"chapterid":26,"noOfVerses":25,"bookid":9},{"chapterid":27,"noOfVerses":12,"bookid":9},{"chapterid":28,"noOfVerses":25,"bookid":9},{"chapterid":29,"noOfVerses":11,"bookid":9},{"chapterid":30,"noOfVerses":31,"bookid":9},{"chapterid":31,"noOfVerses":13,"bookid":9},{"chapterid":1,"noOfVerses":27,"bookid":10},{"chapterid":2,"noOfVerses":32,"bookid":10},{"chapterid":3,"noOfVerses":39,"bookid":10},{"chapterid":4,"noOfVerses":12,"bookid":10},{"chapterid":5,"noOfVerses":25,"bookid":10},{"chapterid":6,"noOfVerses":23,"bookid":10},{"chapterid":7,"noOfVerses":29,"bookid":10},{"chapterid":8,"noOfVerses":18,"bookid":10},{"chapterid":9,"noOfVerses":13,"bookid":10},{"chapterid":10,"noOfVerses":19,"bookid":10},{"chapterid":11,"noOfVerses":27,"bookid":10},{"chapterid":12,"noOfVerses":31,"bookid":10},{"chapterid":13,"noOfVerses":39,"bookid":10},{"chapterid":14,"noOfVerses":33,"bookid":10},{"chapterid":15,"noOfVerses":37,"bookid":10},{"chapterid":16,"noOfVerses":23,"bookid":10},{"chapterid":17,"noOfVerses":29,"bookid":10},{"chapterid":18,"noOfVerses":33,"bookid":10},{"chapterid":19,"noOfVerses":43,"bookid":10},{"chapterid":20,"noOfVerses":26,"bookid":10},{"chapterid":21,"noOfVerses":22,"bookid":10},{"chapterid":22,"noOfVerses":51,"bookid":10},{"chapterid":23,"noOfVerses":39,"bookid":10},{"chapterid":24,"noOfVerses":25,"bookid":10},{"chapterid":1,"noOfVerses":53,"bookid":11},{"chapterid":2,"noOfVerses":46,"bookid":11},{"chapterid":3,"noOfVerses":28,"bookid":11},{"chapterid":4,"noOfVerses":34,"bookid":11},{"chapterid":5,"noOfVerses":18,"bookid":11},{"chapterid":6,"noOfVerses":38,"bookid":11},{"chapterid":7,"noOfVerses":51,"bookid":11},{"chapterid":8,"noOfVerses":66,"bookid":11},{"chapterid":9,"noOfVerses":28,"bookid":11},{"chapterid":10,"noOfVerses":29,"bookid":11},{"chapterid":11,"noOfVerses":43,"bookid":11},{"chapterid":12,"noOfVerses":33,"bookid":11},{"chapterid":13,"noOfVerses":34,"bookid":11},{"chapterid":14,"noOfVerses":31,"bookid":11},{"chapterid":15,"noOfVerses":34,"bookid":11},{"chapterid":16,"noOfVerses":34,"bookid":11},{"chapterid":17,"noOfVerses":24,"bookid":11},{"chapterid":18,"noOfVerses":46,"bookid":11},{"chapterid":19,"noOfVerses":21,"bookid":11},{"chapterid":20,"noOfVerses":43,"bookid":11},{"chapterid":21,"noOfVerses":29,"bookid":11},{"chapterid":22,"noOfVerses":53,"bookid":11},{"chapterid":1,"noOfVerses":18,"bookid":12},{"chapterid":2,"noOfVerses":25,"bookid":12},{"chapterid":3,"noOfVerses":27,"bookid":12},{"chapterid":4,"noOfVerses":44,"bookid":12},{"chapterid":5,"noOfVerses":27,"bookid":12},{"chapterid":6,"noOfVerses":33,"bookid":12},{"chapterid":7,"noOfVerses":20,"bookid":12},{"chapterid":8,"noOfVerses":29,"bookid":12},{"chapterid":9,"noOfVerses":37,"bookid":12},{"chapterid":10,"noOfVerses":36,"bookid":12},{"chapterid":11,"noOfVerses":21,"bookid":12},{"chapterid":12,"noOfVerses":21,"bookid":12},{"chapterid":13,"noOfVerses":25,"bookid":12},{"chapterid":14,"noOfVerses":29,"bookid":12},{"chapterid":15,"noOfVerses":38,"bookid":12},{"chapterid":16,"noOfVerses":20,"bookid":12},{"chapterid":17,"noOfVerses":41,"bookid":12},{"chapterid":18,"noOfVerses":37,"bookid":12},{"chapterid":19,"noOfVerses":37,"bookid":12},{"chapterid":20,"noOfVerses":21,"bookid":12},{"chapterid":21,"noOfVerses":26,"bookid":12},{"chapterid":22,"noOfVerses":20,"bookid":12},{"chapterid":23,"noOfVerses":37,"bookid":12},{"chapterid":24,"noOfVerses":20,"bookid":12},{"chapterid":25,"noOfVerses":30,"bookid":12},{"chapterid":1,"noOfVerses":54,"bookid":13},{"chapterid":2,"noOfVerses":55,"bookid":13},{"chapterid":3,"noOfVerses":24,"bookid":13},{"chapterid":4,"noOfVerses":43,"bookid":13},{"chapterid":5,"noOfVerses":26,"bookid":13},{"chapterid":6,"noOfVerses":81,"bookid":13},{"chapterid":7,"noOfVerses":40,"bookid":13},{"chapterid":8,"noOfVerses":40,"bookid":13},{"chapterid":9,"noOfVerses":44,"bookid":13},{"chapterid":10,"noOfVerses":14,"bookid":13},{"chapterid":11,"noOfVerses":47,"bookid":13},{"chapterid":12,"noOfVerses":40,"bookid":13},{"chapterid":13,"noOfVerses":14,"bookid":13},{"chapterid":14,"noOfVerses":17,"bookid":13},{"chapterid":15,"noOfVerses":29,"bookid":13},{"chapterid":16,"noOfVerses":43,"bookid":13},{"chapterid":17,"noOfVerses":27,"bookid":13},{"chapterid":18,"noOfVerses":17,"bookid":13},{"chapterid":19,"noOfVerses":19,"bookid":13},{"chapterid":20,"noOfVerses":8,"bookid":13},{"chapterid":21,"noOfVerses":30,"bookid":13},{"chapterid":22,"noOfVerses":19,"bookid":13},{"chapterid":23,"noOfVerses":32,"bookid":13},{"chapterid":24,"noOfVerses":31,"bookid":13},{"chapterid":25,"noOfVerses":31,"bookid":13},{"chapterid":26,"noOfVerses":32,"bookid":13},{"chapterid":27,"noOfVerses":34,"bookid":13},{"chapterid":28,"noOfVerses":21,"bookid":13},{"chapterid":29,"noOfVerses":30,"bookid":13},{"chapterid":1,"noOfVerses":17,"bookid":14},{"chapterid":2,"noOfVerses":18,"bookid":14},{"chapterid":3,"noOfVerses":17,"bookid":14},{"chapterid":4,"noOfVerses":22,"bookid":14},{"chapterid":5,"noOfVerses":14,"bookid":14},{"chapterid":6,"noOfVerses":42,"bookid":14},{"chapterid":7,"noOfVerses":22,"bookid":14},{"chapterid":8,"noOfVerses":18,"bookid":14},{"chapterid":9,"noOfVerses":31,"bookid":14},{"chapterid":10,"noOfVerses":19,"bookid":14},{"chapterid":11,"noOfVerses":23,"bookid":14},{"chapterid":12,"noOfVerses":16,"bookid":14},{"chapterid":13,"noOfVerses":22,"bookid":14},{"chapterid":14,"noOfVerses":15,"bookid":14},{"chapterid":15,"noOfVerses":19,"bookid":14},{"chapterid":16,"noOfVerses":14,"bookid":14},{"chapterid":17,"noOfVerses":19,"bookid":14},{"chapterid":18,"noOfVerses":34,"bookid":14},{"chapterid":19,"noOfVerses":11,"bookid":14},{"chapterid":20,"noOfVerses":37,"bookid":14},{"chapterid":21,"noOfVerses":20,"bookid":14},{"chapterid":22,"noOfVerses":12,"bookid":14},{"chapterid":23,"noOfVerses":21,"bookid":14},{"chapterid":24,"noOfVerses":27,"bookid":14},{"chapterid":25,"noOfVerses":28,"bookid":14},{"chapterid":26,"noOfVerses":23,"bookid":14},{"chapterid":27,"noOfVerses":9,"bookid":14},{"chapterid":28,"noOfVerses":27,"bookid":14},{"chapterid":29,"noOfVerses":36,"bookid":14},{"chapterid":30,"noOfVerses":27,"bookid":14},{"chapterid":31,"noOfVerses":21,"bookid":14},{"chapterid":32,"noOfVerses":33,"bookid":14},{"chapterid":33,"noOfVerses":25,"bookid":14},{"chapterid":34,"noOfVerses":33,"bookid":14},{"chapterid":35,"noOfVerses":27,"bookid":14},{"chapterid":36,"noOfVerses":23,"bookid":14},{"chapterid":1,"noOfVerses":11,"bookid":15},{"chapterid":2,"noOfVerses":70,"bookid":15},{"chapterid":3,"noOfVerses":13,"bookid":15},{"chapterid":4,"noOfVerses":24,"bookid":15},{"chapterid":5,"noOfVerses":17,"bookid":15},{"chapterid":6,"noOfVerses":22,"bookid":15},{"chapterid":7,"noOfVerses":28,"bookid":15},{"chapterid":8,"noOfVerses":36,"bookid":15},{"chapterid":9,"noOfVerses":15,"bookid":15},{"chapterid":10,"noOfVerses":44,"bookid":15},{"chapterid":1,"noOfVerses":11,"bookid":16},{"chapterid":2,"noOfVerses":20,"bookid":16},{"chapterid":3,"noOfVerses":32,"bookid":16},{"chapterid":4,"noOfVerses":23,"bookid":16},{"chapterid":5,"noOfVerses":19,"bookid":16},{"chapterid":6,"noOfVerses":19,"bookid":16},{"chapterid":7,"noOfVerses":73,"bookid":16},{"chapterid":8,"noOfVerses":18,"bookid":16},{"chapterid":9,"noOfVerses":38,"bookid":16},{"chapterid":10,"noOfVerses":39,"bookid":16},{"chapterid":11,"noOfVerses":36,"bookid":16},{"chapterid":12,"noOfVerses":47,"bookid":16},{"chapterid":13,"noOfVerses":31,"bookid":16},{"chapterid":1,"noOfVerses":22,"bookid":17},{"chapterid":2,"noOfVerses":23,"bookid":17},{"chapterid":3,"noOfVerses":15,"bookid":17},{"chapterid":4,"noOfVerses":17,"bookid":17},{"chapterid":5,"noOfVerses":14,"bookid":17},{"chapterid":6,"noOfVerses":14,"bookid":17},{"chapterid":7,"noOfVerses":10,"bookid":17},{"chapterid":8,"noOfVerses":17,"bookid":17},{"chapterid":9,"noOfVerses":32,"bookid":17},{"chapterid":10,"noOfVerses":3,"bookid":17},{"chapterid":1,"noOfVerses":22,"bookid":18},{"chapterid":2,"noOfVerses":13,"bookid":18},{"chapterid":3,"noOfVerses":26,"bookid":18},{"chapterid":4,"noOfVerses":21,"bookid":18},{"chapterid":5,"noOfVerses":27,"bookid":18},{"chapterid":6,"noOfVerses":30,"bookid":18},{"chapterid":7,"noOfVerses":21,"bookid":18},{"chapterid":8,"noOfVerses":22,"bookid":18},{"chapterid":9,"noOfVerses":35,"bookid":18},{"chapterid":10,"noOfVerses":22,"bookid":18},{"chapterid":11,"noOfVerses":20,"bookid":18},{"chapterid":12,"noOfVerses":25,"bookid":18},{"chapterid":13,"noOfVerses":28,"bookid":18},{"chapterid":14,"noOfVerses":22,"bookid":18},{"chapterid":15,"noOfVerses":35,"bookid":18},{"chapterid":16,"noOfVerses":22,"bookid":18},{"chapterid":17,"noOfVerses":16,"bookid":18},{"chapterid":18,"noOfVerses":21,"bookid":18},{"chapterid":19,"noOfVerses":29,"bookid":18},{"chapterid":20,"noOfVerses":29,"bookid":18},{"chapterid":21,"noOfVerses":34,"bookid":18},{"chapterid":22,"noOfVerses":30,"bookid":18},{"chapterid":23,"noOfVerses":17,"bookid":18},{"chapterid":24,"noOfVerses":25,"bookid":18},{"chapterid":25,"noOfVerses":6,"bookid":18},{"chapterid":26,"noOfVerses":14,"bookid":18},{"chapterid":27,"noOfVerses":23,"bookid":18},{"chapterid":28,"noOfVerses":28,"bookid":18},{"chapterid":29,"noOfVerses":25,"bookid":18},{"chapterid":30,"noOfVerses":31,"bookid":18},{"chapterid":31,"noOfVerses":40,"bookid":18},{"chapterid":32,"noOfVerses":22,"bookid":18},{"chapterid":33,"noOfVerses":33,"bookid":18},{"chapterid":34,"noOfVerses":37,"bookid":18},{"chapterid":35,"noOfVerses":16,"bookid":18},{"chapterid":36,"noOfVerses":33,"bookid":18},{"chapterid":37,"noOfVerses":24,"bookid":18},{"chapterid":38,"noOfVerses":41,"bookid":18},{"chapterid":39,"noOfVerses":30,"bookid":18},{"chapterid":40,"noOfVerses":24,"bookid":18},{"chapterid":41,"noOfVerses":34,"bookid":18},{"chapterid":42,"noOfVerses":17,"bookid":18},{"chapterid":1,"noOfVerses":6,"bookid":19},{"chapterid":2,"noOfVerses":12,"bookid":19},{"chapterid":3,"noOfVerses":8,"bookid":19},{"chapterid":4,"noOfVerses":8,"bookid":19},{"chapterid":5,"noOfVerses":12,"bookid":19},{"chapterid":6,"noOfVerses":10,"bookid":19},{"chapterid":7,"noOfVerses":17,"bookid":19},{"chapterid":8,"noOfVerses":9,"bookid":19},{"chapterid":9,"noOfVerses":20,"bookid":19},{"chapterid":10,"noOfVerses":18,"bookid":19},{"chapterid":11,"noOfVerses":7,"bookid":19},{"chapterid":12,"noOfVerses":8,"bookid":19},{"chapterid":13,"noOfVerses":6,"bookid":19},{"chapterid":14,"noOfVerses":7,"bookid":19},{"chapterid":15,"noOfVerses":5,"bookid":19},{"chapterid":16,"noOfVerses":11,"bookid":19},{"chapterid":17,"noOfVerses":15,"bookid":19},{"chapterid":18,"noOfVerses":50,"bookid":19},{"chapterid":19,"noOfVerses":14,"bookid":19},{"chapterid":20,"noOfVerses":9,"bookid":19},{"chapterid":21,"noOfVerses":13,"bookid":19},{"chapterid":22,"noOfVerses":31,"bookid":19},{"chapterid":23,"noOfVerses":6,"bookid":19},{"chapterid":24,"noOfVerses":10,"bookid":19},{"chapterid":25,"noOfVerses":22,"bookid":19},{"chapterid":26,"noOfVerses":12,"bookid":19},{"chapterid":27,"noOfVerses":14,"bookid":19},{"chapterid":28,"noOfVerses":9,"bookid":19},{"chapterid":29,"noOfVerses":11,"bookid":19},{"chapterid":30,"noOfVerses":12,"bookid":19},{"chapterid":31,"noOfVerses":24,"bookid":19},{"chapterid":32,"noOfVerses":11,"bookid":19},{"chapterid":33,"noOfVerses":22,"bookid":19},{"chapterid":34,"noOfVerses":22,"bookid":19},{"chapterid":35,"noOfVerses":28,"bookid":19},{"chapterid":36,"noOfVerses":12,"bookid":19},{"chapterid":37,"noOfVerses":40,"bookid":19},{"chapterid":38,"noOfVerses":22,"bookid":19},{"chapterid":39,"noOfVerses":13,"bookid":19},{"chapterid":40,"noOfVerses":17,"bookid":19},{"chapterid":41,"noOfVerses":13,"bookid":19},{"chapterid":42,"noOfVerses":11,"bookid":19},{"chapterid":43,"noOfVerses":5,"bookid":19},{"chapterid":44,"noOfVerses":26,"bookid":19},{"chapterid":45,"noOfVerses":17,"bookid":19},{"chapterid":46,"noOfVerses":11,"bookid":19},{"chapterid":47,"noOfVerses":9,"bookid":19},{"chapterid":48,"noOfVerses":14,"bookid":19},{"chapterid":49,"noOfVerses":20,"bookid":19},{"chapterid":50,"noOfVerses":23,"bookid":19},{"chapterid":51,"noOfVerses":19,"bookid":19},{"chapterid":52,"noOfVerses":9,"bookid":19},{"chapterid":53,"noOfVerses":6,"bookid":19},{"chapterid":54,"noOfVerses":7,"bookid":19},{"chapterid":55,"noOfVerses":23,"bookid":19},{"chapterid":56,"noOfVerses":13,"bookid":19},{"chapterid":57,"noOfVerses":11,"bookid":19},{"chapterid":58,"noOfVerses":11,"bookid":19},{"chapterid":59,"noOfVerses":17,"bookid":19},{"chapterid":60,"noOfVerses":12,"bookid":19},{"chapterid":61,"noOfVerses":8,"bookid":19},{"chapterid":62,"noOfVerses":12,"bookid":19},{"chapterid":63,"noOfVerses":11,"bookid":19},{"chapterid":64,"noOfVerses":10,"bookid":19},{"chapterid":65,"noOfVerses":13,"bookid":19},{"chapterid":66,"noOfVerses":20,"bookid":19},{"chapterid":67,"noOfVerses":7,"bookid":19},{"chapterid":68,"noOfVerses":35,"bookid":19},{"chapterid":69,"noOfVerses":36,"bookid":19},{"chapterid":70,"noOfVerses":5,"bookid":19},{"chapterid":71,"noOfVerses":24,"bookid":19},{"chapterid":72,"noOfVerses":20,"bookid":19},{"chapterid":73,"noOfVerses":28,"bookid":19},{"chapterid":74,"noOfVerses":23,"bookid":19},{"chapterid":75,"noOfVerses":10,"bookid":19},{"chapterid":76,"noOfVerses":13,"bookid":19},{"chapterid":77,"noOfVerses":20,"bookid":19},{"chapterid":78,"noOfVerses":72,"bookid":19},{"chapterid":79,"noOfVerses":13,"bookid":19},{"chapterid":80,"noOfVerses":19,"bookid":19},{"chapterid":81,"noOfVerses":16,"bookid":19},{"chapterid":82,"noOfVerses":8,"bookid":19},{"chapterid":83,"noOfVerses":18,"bookid":19},{"chapterid":84,"noOfVerses":12,"bookid":19},{"chapterid":85,"noOfVerses":13,"bookid":19},{"chapterid":86,"noOfVerses":17,"bookid":19},{"chapterid":87,"noOfVerses":7,"bookid":19},{"chapterid":88,"noOfVerses":18,"bookid":19},{"chapterid":89,"noOfVerses":52,"bookid":19},{"chapterid":90,"noOfVerses":17,"bookid":19},{"chapterid":91,"noOfVerses":16,"bookid":19},{"chapterid":92,"noOfVerses":15,"bookid":19},{"chapterid":93,"noOfVerses":5,"bookid":19},{"chapterid":94,"noOfVerses":23,"bookid":19},{"chapterid":95,"noOfVerses":11,"bookid":19},{"chapterid":96,"noOfVerses":13,"bookid":19},{"chapterid":97,"noOfVerses":12,"bookid":19},{"chapterid":98,"noOfVerses":9,"bookid":19},{"chapterid":99,"noOfVerses":9,"bookid":19},{"chapterid":100,"noOfVerses":5,"bookid":19},{"chapterid":101,"noOfVerses":8,"bookid":19},{"chapterid":102,"noOfVerses":28,"bookid":19},{"chapterid":103,"noOfVerses":22,"bookid":19},{"chapterid":104,"noOfVerses":35,"bookid":19},{"chapterid":105,"noOfVerses":45,"bookid":19},{"chapterid":106,"noOfVerses":48,"bookid":19},{"chapterid":107,"noOfVerses":43,"bookid":19},{"chapterid":108,"noOfVerses":13,"bookid":19},{"chapterid":109,"noOfVerses":31,"bookid":19},{"chapterid":110,"noOfVerses":7,"bookid":19},{"chapterid":111,"noOfVerses":10,"bookid":19},{"chapterid":112,"noOfVerses":10,"bookid":19},{"chapterid":113,"noOfVerses":9,"bookid":19},{"chapterid":114,"noOfVerses":8,"bookid":19},{"chapterid":115,"noOfVerses":18,"bookid":19},{"chapterid":116,"noOfVerses":19,"bookid":19},{"chapterid":117,"noOfVerses":2,"bookid":19},{"chapterid":118,"noOfVerses":29,"bookid":19},{"chapterid":119,"noOfVerses":176,"bookid":19},{"chapterid":120,"noOfVerses":7,"bookid":19},{"chapterid":121,"noOfVerses":8,"bookid":19},{"chapterid":122,"noOfVerses":9,"bookid":19},{"chapterid":123,"noOfVerses":4,"bookid":19},{"chapterid":124,"noOfVerses":8,"bookid":19},{"chapterid":125,"noOfVerses":5,"bookid":19},{"chapterid":126,"noOfVerses":6,"bookid":19},{"chapterid":127,"noOfVerses":5,"bookid":19},{"chapterid":128,"noOfVerses":6,"bookid":19},{"chapterid":129,"noOfVerses":8,"bookid":19},{"chapterid":130,"noOfVerses":8,"bookid":19},{"chapterid":131,"noOfVerses":3,"bookid":19},{"chapterid":132,"noOfVerses":18,"bookid":19},{"chapterid":133,"noOfVerses":3,"bookid":19},{"chapterid":134,"noOfVerses":3,"bookid":19},{"chapterid":135,"noOfVerses":21,"bookid":19},{"chapterid":136,"noOfVerses":26,"bookid":19},{"chapterid":137,"noOfVerses":9,"bookid":19},{"chapterid":138,"noOfVerses":8,"bookid":19},{"chapterid":139,"noOfVerses":24,"bookid":19},{"chapterid":140,"noOfVerses":13,"bookid":19},{"chapterid":141,"noOfVerses":10,"bookid":19},{"chapterid":142,"noOfVerses":7,"bookid":19},{"chapterid":143,"noOfVerses":12,"bookid":19},{"chapterid":144,"noOfVerses":15,"bookid":19},{"chapterid":145,"noOfVerses":21,"bookid":19},{"chapterid":146,"noOfVerses":10,"bookid":19},{"chapterid":147,"noOfVerses":20,"bookid":19},{"chapterid":148,"noOfVerses":14,"bookid":19},{"chapterid":149,"noOfVerses":9,"bookid":19},{"chapterid":150,"noOfVerses":6,"bookid":19},{"chapterid":1,"noOfVerses":33,"bookid":20},{"chapterid":2,"noOfVerses":22,"bookid":20},{"chapterid":3,"noOfVerses":35,"bookid":20},{"chapterid":4,"noOfVerses":27,"bookid":20},{"chapterid":5,"noOfVerses":23,"bookid":20},{"chapterid":6,"noOfVerses":35,"bookid":20},{"chapterid":7,"noOfVerses":27,"bookid":20},{"chapterid":8,"noOfVerses":36,"bookid":20},{"chapterid":9,"noOfVerses":18,"bookid":20},{"chapterid":10,"noOfVerses":32,"bookid":20},{"chapterid":11,"noOfVerses":31,"bookid":20},{"chapterid":12,"noOfVerses":28,"bookid":20},{"chapterid":13,"noOfVerses":25,"bookid":20},{"chapterid":14,"noOfVerses":35,"bookid":20},{"chapterid":15,"noOfVerses":33,"bookid":20},{"chapterid":16,"noOfVerses":33,"bookid":20},{"chapterid":17,"noOfVerses":28,"bookid":20},{"chapterid":18,"noOfVerses":24,"bookid":20},{"chapterid":19,"noOfVerses":29,"bookid":20},{"chapterid":20,"noOfVerses":30,"bookid":20},{"chapterid":21,"noOfVerses":31,"bookid":20},{"chapterid":22,"noOfVerses":29,"bookid":20},{"chapterid":23,"noOfVerses":35,"bookid":20},{"chapterid":24,"noOfVerses":34,"bookid":20},{"chapterid":25,"noOfVerses":28,"bookid":20},{"chapterid":26,"noOfVerses":28,"bookid":20},{"chapterid":27,"noOfVerses":27,"bookid":20},{"chapterid":28,"noOfVerses":28,"bookid":20},{"chapterid":29,"noOfVerses":27,"bookid":20},{"chapterid":30,"noOfVerses":33,"bookid":20},{"chapterid":31,"noOfVerses":31,"bookid":20},{"chapterid":1,"noOfVerses":18,"bookid":21},{"chapterid":2,"noOfVerses":26,"bookid":21},{"chapterid":3,"noOfVerses":22,"bookid":21},{"chapterid":4,"noOfVerses":16,"bookid":21},{"chapterid":5,"noOfVerses":20,"bookid":21},{"chapterid":6,"noOfVerses":12,"bookid":21},{"chapterid":7,"noOfVerses":29,"bookid":21},{"chapterid":8,"noOfVerses":17,"bookid":21},{"chapterid":9,"noOfVerses":18,"bookid":21},{"chapterid":10,"noOfVerses":20,"bookid":21},{"chapterid":11,"noOfVerses":10,"bookid":21},{"chapterid":12,"noOfVerses":14,"bookid":21},{"chapterid":1,"noOfVerses":17,"bookid":22},{"chapterid":2,"noOfVerses":17,"bookid":22},{"chapterid":3,"noOfVerses":11,"bookid":22},{"chapterid":4,"noOfVerses":16,"bookid":22},{"chapterid":5,"noOfVerses":16,"bookid":22},{"chapterid":6,"noOfVerses":13,"bookid":22},{"chapterid":7,"noOfVerses":13,"bookid":22},{"chapterid":8,"noOfVerses":14,"bookid":22},{"chapterid":1,"noOfVerses":31,"bookid":23},{"chapterid":2,"noOfVerses":22,"bookid":23},{"chapterid":3,"noOfVerses":26,"bookid":23},{"chapterid":4,"noOfVerses":6,"bookid":23},{"chapterid":5,"noOfVerses":30,"bookid":23},{"chapterid":6,"noOfVerses":13,"bookid":23},{"chapterid":7,"noOfVerses":25,"bookid":23},{"chapterid":8,"noOfVerses":22,"bookid":23},{"chapterid":9,"noOfVerses":21,"bookid":23},{"chapterid":10,"noOfVerses":34,"bookid":23},{"chapterid":11,"noOfVerses":16,"bookid":23},{"chapterid":12,"noOfVerses":6,"bookid":23},{"chapterid":13,"noOfVerses":22,"bookid":23},{"chapterid":14,"noOfVerses":32,"bookid":23},{"chapterid":15,"noOfVerses":9,"bookid":23},{"chapterid":16,"noOfVerses":14,"bookid":23},{"chapterid":17,"noOfVerses":14,"bookid":23},{"chapterid":18,"noOfVerses":7,"bookid":23},{"chapterid":19,"noOfVerses":25,"bookid":23},{"chapterid":20,"noOfVerses":6,"bookid":23},{"chapterid":21,"noOfVerses":17,"bookid":23},{"chapterid":22,"noOfVerses":25,"bookid":23},{"chapterid":23,"noOfVerses":18,"bookid":23},{"chapterid":24,"noOfVerses":23,"bookid":23},{"chapterid":25,"noOfVerses":12,"bookid":23},{"chapterid":26,"noOfVerses":21,"bookid":23},{"chapterid":27,"noOfVerses":13,"bookid":23},{"chapterid":28,"noOfVerses":29,"bookid":23},{"chapterid":29,"noOfVerses":24,"bookid":23},{"chapterid":30,"noOfVerses":33,"bookid":23},{"chapterid":31,"noOfVerses":9,"bookid":23},{"chapterid":32,"noOfVerses":20,"bookid":23},{"chapterid":33,"noOfVerses":24,"bookid":23},{"chapterid":34,"noOfVerses":17,"bookid":23},{"chapterid":35,"noOfVerses":10,"bookid":23},{"chapterid":36,"noOfVerses":22,"bookid":23},{"chapterid":37,"noOfVerses":38,"bookid":23},{"chapterid":38,"noOfVerses":22,"bookid":23},{"chapterid":39,"noOfVerses":8,"bookid":23},{"chapterid":40,"noOfVerses":31,"bookid":23},{"chapterid":41,"noOfVerses":29,"bookid":23},{"chapterid":42,"noOfVerses":25,"bookid":23},{"chapterid":43,"noOfVerses":28,"bookid":23},{"chapterid":44,"noOfVerses":28,"bookid":23},{"chapterid":45,"noOfVerses":25,"bookid":23},{"chapterid":46,"noOfVerses":13,"bookid":23},{"chapterid":47,"noOfVerses":15,"bookid":23},{"chapterid":48,"noOfVerses":22,"bookid":23},{"chapterid":49,"noOfVerses":26,"bookid":23},{"chapterid":50,"noOfVerses":11,"bookid":23},{"chapterid":51,"noOfVerses":23,"bookid":23},{"chapterid":52,"noOfVerses":15,"bookid":23},{"chapterid":53,"noOfVerses":12,"bookid":23},{"chapterid":54,"noOfVerses":17,"bookid":23},{"chapterid":55,"noOfVerses":13,"bookid":23},{"chapterid":56,"noOfVerses":12,"bookid":23},{"chapterid":57,"noOfVerses":21,"bookid":23},{"chapterid":58,"noOfVerses":14,"bookid":23},{"chapterid":59,"noOfVerses":21,"bookid":23},{"chapterid":60,"noOfVerses":22,"bookid":23},{"chapterid":61,"noOfVerses":11,"bookid":23},{"chapterid":62,"noOfVerses":12,"bookid":23},{"chapterid":63,"noOfVerses":19,"bookid":23},{"chapterid":64,"noOfVerses":12,"bookid":23},{"chapterid":65,"noOfVerses":25,"bookid":23},{"chapterid":66,"noOfVerses":24,"bookid":23},{"chapterid":1,"noOfVerses":19,"bookid":24},{"chapterid":2,"noOfVerses":37,"bookid":24},{"chapterid":3,"noOfVerses":25,"bookid":24},{"chapterid":4,"noOfVerses":31,"bookid":24},{"chapterid":5,"noOfVerses":31,"bookid":24},{"chapterid":6,"noOfVerses":30,"bookid":24},{"chapterid":7,"noOfVerses":34,"bookid":24},{"chapterid":8,"noOfVerses":22,"bookid":24},{"chapterid":9,"noOfVerses":26,"bookid":24},{"chapterid":10,"noOfVerses":25,"bookid":24},{"chapterid":11,"noOfVerses":23,"bookid":24},{"chapterid":12,"noOfVerses":17,"bookid":24},{"chapterid":13,"noOfVerses":27,"bookid":24},{"chapterid":14,"noOfVerses":22,"bookid":24},{"chapterid":15,"noOfVerses":21,"bookid":24},{"chapterid":16,"noOfVerses":21,"bookid":24},{"chapterid":17,"noOfVerses":27,"bookid":24},{"chapterid":18,"noOfVerses":23,"bookid":24},{"chapterid":19,"noOfVerses":15,"bookid":24},{"chapterid":20,"noOfVerses":18,"bookid":24},{"chapterid":21,"noOfVerses":14,"bookid":24},{"chapterid":22,"noOfVerses":30,"bookid":24},{"chapterid":23,"noOfVerses":40,"bookid":24},{"chapterid":24,"noOfVerses":10,"bookid":24},{"chapterid":25,"noOfVerses":38,"bookid":24},{"chapterid":26,"noOfVerses":24,"bookid":24},{"chapterid":27,"noOfVerses":22,"bookid":24},{"chapterid":28,"noOfVerses":17,"bookid":24},{"chapterid":29,"noOfVerses":32,"bookid":24},{"chapterid":30,"noOfVerses":24,"bookid":24},{"chapterid":31,"noOfVerses":40,"bookid":24},{"chapterid":32,"noOfVerses":44,"bookid":24},{"chapterid":33,"noOfVerses":26,"bookid":24},{"chapterid":34,"noOfVerses":22,"bookid":24},{"chapterid":35,"noOfVerses":19,"bookid":24},{"chapterid":36,"noOfVerses":32,"bookid":24},{"chapterid":37,"noOfVerses":21,"bookid":24},{"chapterid":38,"noOfVerses":28,"bookid":24},{"chapterid":39,"noOfVerses":18,"bookid":24},{"chapterid":40,"noOfVerses":16,"bookid":24},{"chapterid":41,"noOfVerses":18,"bookid":24},{"chapterid":42,"noOfVerses":22,"bookid":24},{"chapterid":43,"noOfVerses":13,"bookid":24},{"chapterid":44,"noOfVerses":30,"bookid":24},{"chapterid":45,"noOfVerses":5,"bookid":24},{"chapterid":46,"noOfVerses":28,"bookid":24},{"chapterid":47,"noOfVerses":7,"bookid":24},{"chapterid":48,"noOfVerses":47,"bookid":24},{"chapterid":49,"noOfVerses":39,"bookid":24},{"chapterid":50,"noOfVerses":46,"bookid":24},{"chapterid":51,"noOfVerses":64,"bookid":24},{"chapterid":52,"noOfVerses":34,"bookid":24},{"chapterid":1,"noOfVerses":22,"bookid":25},{"chapterid":2,"noOfVerses":22,"bookid":25},{"chapterid":3,"noOfVerses":66,"bookid":25},{"chapterid":4,"noOfVerses":22,"bookid":25},{"chapterid":5,"noOfVerses":22,"bookid":25},{"chapterid":1,"noOfVerses":28,"bookid":26},{"chapterid":2,"noOfVerses":10,"bookid":26},{"chapterid":3,"noOfVerses":27,"bookid":26},{"chapterid":4,"noOfVerses":17,"bookid":26},{"chapterid":5,"noOfVerses":17,"bookid":26},{"chapterid":6,"noOfVerses":14,"bookid":26},{"chapterid":7,"noOfVerses":27,"bookid":26},{"chapterid":8,"noOfVerses":18,"bookid":26},{"chapterid":9,"noOfVerses":11,"bookid":26},{"chapterid":10,"noOfVerses":22,"bookid":26},{"chapterid":11,"noOfVerses":25,"bookid":26},{"chapterid":12,"noOfVerses":28,"bookid":26},{"chapterid":13,"noOfVerses":23,"bookid":26},{"chapterid":14,"noOfVerses":23,"bookid":26},{"chapterid":15,"noOfVerses":8,"bookid":26},{"chapterid":16,"noOfVerses":63,"bookid":26},{"chapterid":17,"noOfVerses":24,"bookid":26},{"chapterid":18,"noOfVerses":32,"bookid":26},{"chapterid":19,"noOfVerses":14,"bookid":26},{"chapterid":20,"noOfVerses":49,"bookid":26},{"chapterid":21,"noOfVerses":32,"bookid":26},{"chapterid":22,"noOfVerses":31,"bookid":26},{"chapterid":23,"noOfVerses":49,"bookid":26},{"chapterid":24,"noOfVerses":27,"bookid":26},{"chapterid":25,"noOfVerses":17,"bookid":26},{"chapterid":26,"noOfVerses":21,"bookid":26},{"chapterid":27,"noOfVerses":36,"bookid":26},{"chapterid":28,"noOfVerses":26,"bookid":26},{"chapterid":29,"noOfVerses":21,"bookid":26},{"chapterid":30,"noOfVerses":26,"bookid":26},{"chapterid":31,"noOfVerses":18,"bookid":26},{"chapterid":32,"noOfVerses":32,"bookid":26},{"chapterid":33,"noOfVerses":33,"bookid":26},{"chapterid":34,"noOfVerses":31,"bookid":26},{"chapterid":35,"noOfVerses":15,"bookid":26},{"chapterid":36,"noOfVerses":38,"bookid":26},{"chapterid":37,"noOfVerses":28,"bookid":26},{"chapterid":38,"noOfVerses":23,"bookid":26},{"chapterid":39,"noOfVerses":29,"bookid":26},{"chapterid":40,"noOfVerses":49,"bookid":26},{"chapterid":41,"noOfVerses":26,"bookid":26},{"chapterid":42,"noOfVerses":20,"bookid":26},{"chapterid":43,"noOfVerses":27,"bookid":26},{"chapterid":44,"noOfVerses":31,"bookid":26},{"chapterid":45,"noOfVerses":25,"bookid":26},{"chapterid":46,"noOfVerses":24,"bookid":26},{"chapterid":47,"noOfVerses":23,"bookid":26},{"chapterid":48,"noOfVerses":35,"bookid":26},{"chapterid":1,"noOfVerses":21,"bookid":27},{"chapterid":2,"noOfVerses":49,"bookid":27},{"chapterid":3,"noOfVerses":30,"bookid":27},{"chapterid":4,"noOfVerses":37,"bookid":27},{"chapterid":5,"noOfVerses":31,"bookid":27},{"chapterid":6,"noOfVerses":28,"bookid":27},{"chapterid":7,"noOfVerses":28,"bookid":27},{"chapterid":8,"noOfVerses":27,"bookid":27},{"chapterid":9,"noOfVerses":27,"bookid":27},{"chapterid":10,"noOfVerses":21,"bookid":27},{"chapterid":11,"noOfVerses":45,"bookid":27},{"chapterid":12,"noOfVerses":13,"bookid":27},{"chapterid":1,"noOfVerses":11,"bookid":28},{"chapterid":2,"noOfVerses":23,"bookid":28},{"chapterid":3,"noOfVerses":5,"bookid":28},{"chapterid":4,"noOfVerses":19,"bookid":28},{"chapterid":5,"noOfVerses":15,"bookid":28},{"chapterid":6,"noOfVerses":11,"bookid":28},{"chapterid":7,"noOfVerses":16,"bookid":28},{"chapterid":8,"noOfVerses":14,"bookid":28},{"chapterid":9,"noOfVerses":17,"bookid":28},{"chapterid":10,"noOfVerses":15,"bookid":28},{"chapterid":11,"noOfVerses":12,"bookid":28},{"chapterid":12,"noOfVerses":14,"bookid":28},{"chapterid":13,"noOfVerses":16,"bookid":28},{"chapterid":14,"noOfVerses":9,"bookid":28},{"chapterid":1,"noOfVerses":20,"bookid":29},{"chapterid":2,"noOfVerses":32,"bookid":29},{"chapterid":3,"noOfVerses":21,"bookid":29},{"chapterid":1,"noOfVerses":15,"bookid":30},{"chapterid":2,"noOfVerses":16,"bookid":30},{"chapterid":3,"noOfVerses":15,"bookid":30},{"chapterid":4,"noOfVerses":13,"bookid":30},{"chapterid":5,"noOfVerses":27,"bookid":30},{"chapterid":6,"noOfVerses":14,"bookid":30},{"chapterid":7,"noOfVerses":17,"bookid":30},{"chapterid":8,"noOfVerses":14,"bookid":30},{"chapterid":9,"noOfVerses":15,"bookid":30},{"chapterid":1,"noOfVerses":21,"bookid":31},{"chapterid":1,"noOfVerses":17,"bookid":32},{"chapterid":2,"noOfVerses":10,"bookid":32},{"chapterid":3,"noOfVerses":10,"bookid":32},{"chapterid":4,"noOfVerses":11,"bookid":32},{"chapterid":1,"noOfVerses":16,"bookid":33},{"chapterid":2,"noOfVerses":13,"bookid":33},{"chapterid":3,"noOfVerses":12,"bookid":33},{"chapterid":4,"noOfVerses":13,"bookid":33},{"chapterid":5,"noOfVerses":15,"bookid":33},{"chapterid":6,"noOfVerses":16,"bookid":33},{"chapterid":7,"noOfVerses":20,"bookid":33},{"chapterid":1,"noOfVerses":15,"bookid":34},{"chapterid":2,"noOfVerses":13,"bookid":34},{"chapterid":3,"noOfVerses":19,"bookid":34},{"chapterid":1,"noOfVerses":17,"bookid":35},{"chapterid":2,"noOfVerses":20,"bookid":35},{"chapterid":3,"noOfVerses":19,"bookid":35},{"chapterid":1,"noOfVerses":18,"bookid":36},{"chapterid":2,"noOfVerses":15,"bookid":36},{"chapterid":3,"noOfVerses":20,"bookid":36},{"chapterid":1,"noOfVerses":15,"bookid":37},{"chapterid":2,"noOfVerses":23,"bookid":37},{"chapterid":1,"noOfVerses":21,"bookid":38},{"chapterid":2,"noOfVerses":13,"bookid":38},{"chapterid":3,"noOfVerses":10,"bookid":38},{"chapterid":4,"noOfVerses":14,"bookid":38},{"chapterid":5,"noOfVerses":11,"bookid":38},{"chapterid":6,"noOfVerses":15,"bookid":38},{"chapterid":7,"noOfVerses":14,"bookid":38},{"chapterid":8,"noOfVerses":23,"bookid":38},{"chapterid":9,"noOfVerses":17,"bookid":38},{"chapterid":10,"noOfVerses":12,"bookid":38},{"chapterid":11,"noOfVerses":17,"bookid":38},{"chapterid":12,"noOfVerses":14,"bookid":38},{"chapterid":13,"noOfVerses":9,"bookid":38},{"chapterid":14,"noOfVerses":21,"bookid":38},{"chapterid":1,"noOfVerses":14,"bookid":39},{"chapterid":2,"noOfVerses":17,"bookid":39},{"chapterid":3,"noOfVerses":18,"bookid":39},{"chapterid":4,"noOfVerses":6,"bookid":39},{"chapterid":1,"noOfVerses":25,"bookid":40},{"chapterid":2,"noOfVerses":23,"bookid":40},{"chapterid":3,"noOfVerses":17,"bookid":40},{"chapterid":4,"noOfVerses":25,"bookid":40},{"chapterid":5,"noOfVerses":48,"bookid":40},{"chapterid":6,"noOfVerses":34,"bookid":40},{"chapterid":7,"noOfVerses":29,"bookid":40},{"chapterid":8,"noOfVerses":34,"bookid":40},{"chapterid":9,"noOfVerses":38,"bookid":40},{"chapterid":10,"noOfVerses":42,"bookid":40},{"chapterid":11,"noOfVerses":30,"bookid":40},{"chapterid":12,"noOfVerses":50,"bookid":40},{"chapterid":13,"noOfVerses":58,"bookid":40},{"chapterid":14,"noOfVerses":36,"bookid":40},{"chapterid":15,"noOfVerses":39,"bookid":40},{"chapterid":16,"noOfVerses":28,"bookid":40},{"chapterid":17,"noOfVerses":27,"bookid":40},{"chapterid":18,"noOfVerses":35,"bookid":40},{"chapterid":19,"noOfVerses":30,"bookid":40},{"chapterid":20,"noOfVerses":34,"bookid":40},{"chapterid":21,"noOfVerses":46,"bookid":40},{"chapterid":22,"noOfVerses":46,"bookid":40},{"chapterid":23,"noOfVerses":39,"bookid":40},{"chapterid":24,"noOfVerses":51,"bookid":40},{"chapterid":25,"noOfVerses":46,"bookid":40},{"chapterid":26,"noOfVerses":75,"bookid":40},{"chapterid":27,"noOfVerses":66,"bookid":40},{"chapterid":28,"noOfVerses":20,"bookid":40},{"chapterid":1,"noOfVerses":45,"bookid":41},{"chapterid":2,"noOfVerses":28,"bookid":41},{"chapterid":3,"noOfVerses":35,"bookid":41},{"chapterid":4,"noOfVerses":41,"bookid":41},{"chapterid":5,"noOfVerses":43,"bookid":41},{"chapterid":6,"noOfVerses":56,"bookid":41},{"chapterid":7,"noOfVerses":37,"bookid":41},{"chapterid":8,"noOfVerses":38,"bookid":41},{"chapterid":9,"noOfVerses":50,"bookid":41},{"chapterid":10,"noOfVerses":52,"bookid":41},{"chapterid":11,"noOfVerses":33,"bookid":41},{"chapterid":12,"noOfVerses":44,"bookid":41},{"chapterid":13,"noOfVerses":37,"bookid":41},{"chapterid":14,"noOfVerses":72,"bookid":41},{"chapterid":15,"noOfVerses":47,"bookid":41},{"chapterid":16,"noOfVerses":20,"bookid":41},{"chapterid":1,"noOfVerses":80,"bookid":42},{"chapterid":2,"noOfVerses":52,"bookid":42},{"chapterid":3,"noOfVerses":38,"bookid":42},{"chapterid":4,"noOfVerses":44,"bookid":42},{"chapterid":5,"noOfVerses":39,"bookid":42},{"chapterid":6,"noOfVerses":49,"bookid":42},{"chapterid":7,"noOfVerses":50,"bookid":42},{"chapterid":8,"noOfVerses":56,"bookid":42},{"chapterid":9,"noOfVerses":62,"bookid":42},{"chapterid":10,"noOfVerses":42,"bookid":42},{"chapterid":11,"noOfVerses":54,"bookid":42},{"chapterid":12,"noOfVerses":59,"bookid":42},{"chapterid":13,"noOfVerses":35,"bookid":42},{"chapterid":14,"noOfVerses":35,"bookid":42},{"chapterid":15,"noOfVerses":32,"bookid":42},{"chapterid":16,"noOfVerses":31,"bookid":42},{"chapterid":17,"noOfVerses":37,"bookid":42},{"chapterid":18,"noOfVerses":43,"bookid":42},{"chapterid":19,"noOfVerses":48,"bookid":42},{"chapterid":20,"noOfVerses":47,"bookid":42},{"chapterid":21,"noOfVerses":38,"bookid":42},{"chapterid":22,"noOfVerses":71,"bookid":42},{"chapterid":23,"noOfVerses":56,"bookid":42},{"chapterid":24,"noOfVerses":53,"bookid":42},{"chapterid":1,"noOfVerses":52,"bookid":43},{"chapterid":2,"noOfVerses":25,"bookid":43},{"chapterid":3,"noOfVerses":36,"bookid":43},{"chapterid":4,"noOfVerses":54,"bookid":43},{"chapterid":5,"noOfVerses":47,"bookid":43},{"chapterid":6,"noOfVerses":71,"bookid":43},{"chapterid":7,"noOfVerses":53,"bookid":43},{"chapterid":8,"noOfVerses":59,"bookid":43},{"chapterid":9,"noOfVerses":41,"bookid":43},{"chapterid":10,"noOfVerses":42,"bookid":43},{"chapterid":11,"noOfVerses":57,"bookid":43},{"chapterid":12,"noOfVerses":50,"bookid":43},{"chapterid":13,"noOfVerses":38,"bookid":43},{"chapterid":14,"noOfVerses":31,"bookid":43},{"chapterid":15,"noOfVerses":27,"bookid":43},{"chapterid":16,"noOfVerses":33,"bookid":43},{"chapterid":17,"noOfVerses":26,"bookid":43},{"chapterid":18,"noOfVerses":40,"bookid":43},{"chapterid":19,"noOfVerses":42,"bookid":43},{"chapterid":20,"noOfVerses":31,"bookid":43},{"chapterid":21,"noOfVerses":25,"bookid":43},{"chapterid":1,"noOfVerses":26,"bookid":44},{"chapterid":2,"noOfVerses":47,"bookid":44},{"chapterid":3,"noOfVerses":26,"bookid":44},{"chapterid":4,"noOfVerses":37,"bookid":44},{"chapterid":5,"noOfVerses":42,"bookid":44},{"chapterid":6,"noOfVerses":15,"bookid":44},{"chapterid":7,"noOfVerses":60,"bookid":44},{"chapterid":8,"noOfVerses":40,"bookid":44},{"chapterid":9,"noOfVerses":43,"bookid":44},{"chapterid":10,"noOfVerses":48,"bookid":44},{"chapterid":11,"noOfVerses":30,"bookid":44},{"chapterid":12,"noOfVerses":25,"bookid":44},{"chapterid":13,"noOfVerses":52,"bookid":44},{"chapterid":14,"noOfVerses":28,"bookid":44},{"chapterid":15,"noOfVerses":41,"bookid":44},{"chapterid":16,"noOfVerses":40,"bookid":44},{"chapterid":17,"noOfVerses":34,"bookid":44},{"chapterid":18,"noOfVerses":28,"bookid":44},{"chapterid":19,"noOfVerses":41,"bookid":44},{"chapterid":20,"noOfVerses":38,"bookid":44},{"chapterid":21,"noOfVerses":40,"bookid":44},{"chapterid":22,"noOfVerses":30,"bookid":44},{"chapterid":23,"noOfVerses":35,"bookid":44},{"chapterid":24,"noOfVerses":27,"bookid":44},{"chapterid":25,"noOfVerses":27,"bookid":44},{"chapterid":26,"noOfVerses":32,"bookid":44},{"chapterid":27,"noOfVerses":44,"bookid":44},{"chapterid":28,"noOfVerses":31,"bookid":44},{"chapterid":1,"noOfVerses":32,"bookid":45},{"chapterid":2,"noOfVerses":29,"bookid":45},{"chapterid":3,"noOfVerses":31,"bookid":45},{"chapterid":4,"noOfVerses":25,"bookid":45},{"chapterid":5,"noOfVerses":21,"bookid":45},{"chapterid":6,"noOfVerses":23,"bookid":45},{"chapterid":7,"noOfVerses":25,"bookid":45},{"chapterid":8,"noOfVerses":39,"bookid":45},{"chapterid":9,"noOfVerses":33,"bookid":45},{"chapterid":10,"noOfVerses":21,"bookid":45},{"chapterid":11,"noOfVerses":36,"bookid":45},{"chapterid":12,"noOfVerses":21,"bookid":45},{"chapterid":13,"noOfVerses":14,"bookid":45},{"chapterid":14,"noOfVerses":23,"bookid":45},{"chapterid":15,"noOfVerses":33,"bookid":45},{"chapterid":16,"noOfVerses":27,"bookid":45},{"chapterid":1,"noOfVerses":31,"bookid":46},{"chapterid":2,"noOfVerses":16,"bookid":46},{"chapterid":3,"noOfVerses":23,"bookid":46},{"chapterid":4,"noOfVerses":21,"bookid":46},{"chapterid":5,"noOfVerses":13,"bookid":46},{"chapterid":6,"noOfVerses":20,"bookid":46},{"chapterid":7,"noOfVerses":40,"bookid":46},{"chapterid":8,"noOfVerses":13,"bookid":46},{"chapterid":9,"noOfVerses":27,"bookid":46},{"chapterid":10,"noOfVerses":33,"bookid":46},{"chapterid":11,"noOfVerses":34,"bookid":46},{"chapterid":12,"noOfVerses":31,"bookid":46},{"chapterid":13,"noOfVerses":13,"bookid":46},{"chapterid":14,"noOfVerses":40,"bookid":46},{"chapterid":15,"noOfVerses":58,"bookid":46},{"chapterid":16,"noOfVerses":24,"bookid":46},{"chapterid":1,"noOfVerses":24,"bookid":47},{"chapterid":2,"noOfVerses":17,"bookid":47},{"chapterid":3,"noOfVerses":18,"bookid":47},{"chapterid":4,"noOfVerses":18,"bookid":47},{"chapterid":5,"noOfVerses":21,"bookid":47},{"chapterid":6,"noOfVerses":18,"bookid":47},{"chapterid":7,"noOfVerses":16,"bookid":47},{"chapterid":8,"noOfVerses":24,"bookid":47},{"chapterid":9,"noOfVerses":15,"bookid":47},{"chapterid":10,"noOfVerses":18,"bookid":47},{"chapterid":11,"noOfVerses":33,"bookid":47},{"chapterid":12,"noOfVerses":21,"bookid":47},{"chapterid":13,"noOfVerses":14,"bookid":47},{"chapterid":1,"noOfVerses":24,"bookid":48},{"chapterid":2,"noOfVerses":21,"bookid":48},{"chapterid":3,"noOfVerses":29,"bookid":48},{"chapterid":4,"noOfVerses":31,"bookid":48},{"chapterid":5,"noOfVerses":26,"bookid":48},{"chapterid":6,"noOfVerses":18,"bookid":48},{"chapterid":1,"noOfVerses":23,"bookid":49},{"chapterid":2,"noOfVerses":22,"bookid":49},{"chapterid":3,"noOfVerses":21,"bookid":49},{"chapterid":4,"noOfVerses":32,"bookid":49},{"chapterid":5,"noOfVerses":33,"bookid":49},{"chapterid":6,"noOfVerses":24,"bookid":49},{"chapterid":1,"noOfVerses":30,"bookid":50},{"chapterid":2,"noOfVerses":30,"bookid":50},{"chapterid":3,"noOfVerses":21,"bookid":50},{"chapterid":4,"noOfVerses":23,"bookid":50},{"chapterid":1,"noOfVerses":29,"bookid":51},{"chapterid":2,"noOfVerses":23,"bookid":51},{"chapterid":3,"noOfVerses":25,"bookid":51},{"chapterid":4,"noOfVerses":18,"bookid":51},{"chapterid":1,"noOfVerses":10,"bookid":52},{"chapterid":2,"noOfVerses":20,"bookid":52},{"chapterid":3,"noOfVerses":13,"bookid":52},{"chapterid":4,"noOfVerses":18,"bookid":52},{"chapterid":5,"noOfVerses":28,"bookid":52},{"chapterid":1,"noOfVerses":12,"bookid":53},{"chapterid":2,"noOfVerses":17,"bookid":53},{"chapterid":3,"noOfVerses":18,"bookid":53},{"chapterid":1,"noOfVerses":20,"bookid":54},{"chapterid":2,"noOfVerses":15,"bookid":54},{"chapterid":3,"noOfVerses":16,"bookid":54},{"chapterid":4,"noOfVerses":16,"bookid":54},{"chapterid":5,"noOfVerses":25,"bookid":54},{"chapterid":6,"noOfVerses":21,"bookid":54},{"chapterid":1,"noOfVerses":18,"bookid":55},{"chapterid":2,"noOfVerses":26,"bookid":55},{"chapterid":3,"noOfVerses":17,"bookid":55},{"chapterid":4,"noOfVerses":22,"bookid":55},{"chapterid":1,"noOfVerses":16,"bookid":56},{"chapterid":2,"noOfVerses":15,"bookid":56},{"chapterid":3,"noOfVerses":15,"bookid":56},{"chapterid":1,"noOfVerses":25,"bookid":57},{"chapterid":1,"noOfVerses":14,"bookid":58},{"chapterid":2,"noOfVerses":18,"bookid":58},{"chapterid":3,"noOfVerses":19,"bookid":58},{"chapterid":4,"noOfVerses":16,"bookid":58},{"chapterid":5,"noOfVerses":14,"bookid":58},{"chapterid":6,"noOfVerses":20,"bookid":58},{"chapterid":7,"noOfVerses":28,"bookid":58},{"chapterid":8,"noOfVerses":13,"bookid":58},{"chapterid":9,"noOfVerses":28,"bookid":58},{"chapterid":10,"noOfVerses":39,"bookid":58},{"chapterid":11,"noOfVerses":40,"bookid":58},{"chapterid":12,"noOfVerses":29,"bookid":58},{"chapterid":13,"noOfVerses":25,"bookid":58},{"chapterid":1,"noOfVerses":27,"bookid":59},{"chapterid":2,"noOfVerses":26,"bookid":59},{"chapterid":3,"noOfVerses":18,"bookid":59},{"chapterid":4,"noOfVerses":17,"bookid":59},{"chapterid":5,"noOfVerses":20,"bookid":59},{"chapterid":1,"noOfVerses":25,"bookid":60},{"chapterid":2,"noOfVerses":25,"bookid":60},{"chapterid":3,"noOfVerses":22,"bookid":60},{"chapterid":4,"noOfVerses":19,"bookid":60},{"chapterid":5,"noOfVerses":14,"bookid":60},{"chapterid":1,"noOfVerses":21,"bookid":61},{"chapterid":2,"noOfVerses":22,"bookid":61},{"chapterid":3,"noOfVerses":18,"bookid":61},{"chapterid":1,"noOfVerses":10,"bookid":62},{"chapterid":2,"noOfVerses":29,"bookid":62},{"chapterid":3,"noOfVerses":24,"bookid":62},{"chapterid":1,"noOfVerses":13,"bookid":63},{"chapterid":1,"noOfVerses":15,"bookid":64},{"chapterid":1,"noOfVerses":25,"bookid":65},{"chapterid":1,"noOfVerses":20,"bookid":66},{"chapterid":2,"noOfVerses":29,"bookid":66},{"chapterid":3,"noOfVerses":22,"bookid":66},{"chapterid":4,"noOfVerses":11,"bookid":66},{"chapterid":5,"noOfVerses":14,"bookid":66},{"chapterid":6,"noOfVerses":17,"bookid":66},{"chapterid":7,"noOfVerses":17,"bookid":66},{"chapterid":8,"noOfVerses":13,"bookid":66},{"chapterid":9,"noOfVerses":21,"bookid":66},{"chapterid":10,"noOfVerses":11,"bookid":66},{"chapterid":11,"noOfVerses":19,"bookid":66},{"chapterid":12,"noOfVerses":17,"bookid":66},{"chapterid":13,"noOfVerses":18,"bookid":66},{"chapterid":14,"noOfVerses":20,"bookid":66},{"chapterid":15,"noOfVerses":8,"bookid":66},{"chapterid":16,"noOfVerses":21,"bookid":66},{"chapterid":17,"noOfVerses":18,"bookid":66},{"chapterid":18,"noOfVerses":24,"bookid":66},{"chapterid":19,"noOfVerses":21,"bookid":66},{"chapterid":20,"noOfVerses":15,"bookid":66},{"chapterid":21,"noOfVerses":27,"bookid":66},{"chapterid":22,"noOfVerses":21,"bookid":66}]
+[
+  {
+    "chapterid": 1,
+    "noOfVerses": 31,
+    "bookid": 1
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 25,
+    "bookid": 1
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 24,
+    "bookid": 1
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 26,
+    "bookid": 1
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 32,
+    "bookid": 1
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 22,
+    "bookid": 1
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 24,
+    "bookid": 1
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 22,
+    "bookid": 1
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 29,
+    "bookid": 1
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 32,
+    "bookid": 1
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 32,
+    "bookid": 1
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 20,
+    "bookid": 1
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 18,
+    "bookid": 1
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 24,
+    "bookid": 1
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 21,
+    "bookid": 1
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 16,
+    "bookid": 1
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 27,
+    "bookid": 1
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 33,
+    "bookid": 1
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 38,
+    "bookid": 1
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 18,
+    "bookid": 1
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 34,
+    "bookid": 1
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 24,
+    "bookid": 1
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 20,
+    "bookid": 1
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 67,
+    "bookid": 1
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 34,
+    "bookid": 1
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 35,
+    "bookid": 1
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 46,
+    "bookid": 1
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 22,
+    "bookid": 1
+  },
+  {
+    "chapterid": 29,
+    "noOfVerses": 35,
+    "bookid": 1
+  },
+  {
+    "chapterid": 30,
+    "noOfVerses": 43,
+    "bookid": 1
+  },
+  {
+    "chapterid": 31,
+    "noOfVerses": 55,
+    "bookid": 1
+  },
+  {
+    "chapterid": 32,
+    "noOfVerses": 32,
+    "bookid": 1
+  },
+  {
+    "chapterid": 33,
+    "noOfVerses": 20,
+    "bookid": 1
+  },
+  {
+    "chapterid": 34,
+    "noOfVerses": 31,
+    "bookid": 1
+  },
+  {
+    "chapterid": 35,
+    "noOfVerses": 29,
+    "bookid": 1
+  },
+  {
+    "chapterid": 36,
+    "noOfVerses": 43,
+    "bookid": 1
+  },
+  {
+    "chapterid": 37,
+    "noOfVerses": 36,
+    "bookid": 1
+  },
+  {
+    "chapterid": 38,
+    "noOfVerses": 30,
+    "bookid": 1
+  },
+  {
+    "chapterid": 39,
+    "noOfVerses": 23,
+    "bookid": 1
+  },
+  {
+    "chapterid": 40,
+    "noOfVerses": 23,
+    "bookid": 1
+  },
+  {
+    "chapterid": 41,
+    "noOfVerses": 57,
+    "bookid": 1
+  },
+  {
+    "chapterid": 42,
+    "noOfVerses": 38,
+    "bookid": 1
+  },
+  {
+    "chapterid": 43,
+    "noOfVerses": 34,
+    "bookid": 1
+  },
+  {
+    "chapterid": 44,
+    "noOfVerses": 34,
+    "bookid": 1
+  },
+  {
+    "chapterid": 45,
+    "noOfVerses": 28,
+    "bookid": 1
+  },
+  {
+    "chapterid": 46,
+    "noOfVerses": 34,
+    "bookid": 1
+  },
+  {
+    "chapterid": 47,
+    "noOfVerses": 31,
+    "bookid": 1
+  },
+  {
+    "chapterid": 48,
+    "noOfVerses": 22,
+    "bookid": 1
+  },
+  {
+    "chapterid": 49,
+    "noOfVerses": 33,
+    "bookid": 1
+  },
+  {
+    "chapterid": 50,
+    "noOfVerses": 26,
+    "bookid": 1
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 22,
+    "bookid": 2
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 25,
+    "bookid": 2
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 22,
+    "bookid": 2
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 31,
+    "bookid": 2
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 23,
+    "bookid": 2
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 30,
+    "bookid": 2
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 25,
+    "bookid": 2
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 32,
+    "bookid": 2
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 35,
+    "bookid": 2
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 29,
+    "bookid": 2
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 10,
+    "bookid": 2
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 51,
+    "bookid": 2
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 22,
+    "bookid": 2
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 31,
+    "bookid": 2
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 27,
+    "bookid": 2
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 36,
+    "bookid": 2
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 16,
+    "bookid": 2
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 27,
+    "bookid": 2
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 25,
+    "bookid": 2
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 26,
+    "bookid": 2
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 36,
+    "bookid": 2
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 31,
+    "bookid": 2
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 33,
+    "bookid": 2
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 18,
+    "bookid": 2
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 40,
+    "bookid": 2
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 37,
+    "bookid": 2
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 21,
+    "bookid": 2
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 43,
+    "bookid": 2
+  },
+  {
+    "chapterid": 29,
+    "noOfVerses": 46,
+    "bookid": 2
+  },
+  {
+    "chapterid": 30,
+    "noOfVerses": 38,
+    "bookid": 2
+  },
+  {
+    "chapterid": 31,
+    "noOfVerses": 18,
+    "bookid": 2
+  },
+  {
+    "chapterid": 32,
+    "noOfVerses": 35,
+    "bookid": 2
+  },
+  {
+    "chapterid": 33,
+    "noOfVerses": 23,
+    "bookid": 2
+  },
+  {
+    "chapterid": 34,
+    "noOfVerses": 35,
+    "bookid": 2
+  },
+  {
+    "chapterid": 35,
+    "noOfVerses": 35,
+    "bookid": 2
+  },
+  {
+    "chapterid": 36,
+    "noOfVerses": 38,
+    "bookid": 2
+  },
+  {
+    "chapterid": 37,
+    "noOfVerses": 29,
+    "bookid": 2
+  },
+  {
+    "chapterid": 38,
+    "noOfVerses": 31,
+    "bookid": 2
+  },
+  {
+    "chapterid": 39,
+    "noOfVerses": 43,
+    "bookid": 2
+  },
+  {
+    "chapterid": 40,
+    "noOfVerses": 38,
+    "bookid": 2
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 17,
+    "bookid": 3
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 16,
+    "bookid": 3
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 17,
+    "bookid": 3
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 35,
+    "bookid": 3
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 19,
+    "bookid": 3
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 30,
+    "bookid": 3
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 38,
+    "bookid": 3
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 36,
+    "bookid": 3
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 24,
+    "bookid": 3
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 20,
+    "bookid": 3
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 47,
+    "bookid": 3
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 8,
+    "bookid": 3
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 59,
+    "bookid": 3
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 57,
+    "bookid": 3
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 33,
+    "bookid": 3
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 34,
+    "bookid": 3
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 16,
+    "bookid": 3
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 30,
+    "bookid": 3
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 37,
+    "bookid": 3
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 27,
+    "bookid": 3
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 24,
+    "bookid": 3
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 33,
+    "bookid": 3
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 44,
+    "bookid": 3
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 23,
+    "bookid": 3
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 55,
+    "bookid": 3
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 46,
+    "bookid": 3
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 34,
+    "bookid": 3
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 54,
+    "bookid": 4
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 34,
+    "bookid": 4
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 51,
+    "bookid": 4
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 49,
+    "bookid": 4
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 31,
+    "bookid": 4
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 27,
+    "bookid": 4
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 89,
+    "bookid": 4
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 26,
+    "bookid": 4
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 23,
+    "bookid": 4
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 36,
+    "bookid": 4
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 35,
+    "bookid": 4
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 16,
+    "bookid": 4
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 33,
+    "bookid": 4
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 45,
+    "bookid": 4
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 41,
+    "bookid": 4
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 50,
+    "bookid": 4
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 13,
+    "bookid": 4
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 32,
+    "bookid": 4
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 22,
+    "bookid": 4
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 29,
+    "bookid": 4
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 35,
+    "bookid": 4
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 41,
+    "bookid": 4
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 30,
+    "bookid": 4
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 25,
+    "bookid": 4
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 18,
+    "bookid": 4
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 65,
+    "bookid": 4
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 23,
+    "bookid": 4
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 31,
+    "bookid": 4
+  },
+  {
+    "chapterid": 29,
+    "noOfVerses": 40,
+    "bookid": 4
+  },
+  {
+    "chapterid": 30,
+    "noOfVerses": 16,
+    "bookid": 4
+  },
+  {
+    "chapterid": 31,
+    "noOfVerses": 54,
+    "bookid": 4
+  },
+  {
+    "chapterid": 32,
+    "noOfVerses": 42,
+    "bookid": 4
+  },
+  {
+    "chapterid": 33,
+    "noOfVerses": 56,
+    "bookid": 4
+  },
+  {
+    "chapterid": 34,
+    "noOfVerses": 29,
+    "bookid": 4
+  },
+  {
+    "chapterid": 35,
+    "noOfVerses": 34,
+    "bookid": 4
+  },
+  {
+    "chapterid": 36,
+    "noOfVerses": 13,
+    "bookid": 4
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 46,
+    "bookid": 5
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 37,
+    "bookid": 5
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 29,
+    "bookid": 5
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 49,
+    "bookid": 5
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 33,
+    "bookid": 5
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 25,
+    "bookid": 5
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 26,
+    "bookid": 5
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 20,
+    "bookid": 5
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 29,
+    "bookid": 5
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 22,
+    "bookid": 5
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 32,
+    "bookid": 5
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 32,
+    "bookid": 5
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 18,
+    "bookid": 5
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 29,
+    "bookid": 5
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 23,
+    "bookid": 5
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 22,
+    "bookid": 5
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 20,
+    "bookid": 5
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 22,
+    "bookid": 5
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 21,
+    "bookid": 5
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 20,
+    "bookid": 5
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 23,
+    "bookid": 5
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 30,
+    "bookid": 5
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 25,
+    "bookid": 5
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 22,
+    "bookid": 5
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 19,
+    "bookid": 5
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 19,
+    "bookid": 5
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 26,
+    "bookid": 5
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 68,
+    "bookid": 5
+  },
+  {
+    "chapterid": 29,
+    "noOfVerses": 29,
+    "bookid": 5
+  },
+  {
+    "chapterid": 30,
+    "noOfVerses": 20,
+    "bookid": 5
+  },
+  {
+    "chapterid": 31,
+    "noOfVerses": 30,
+    "bookid": 5
+  },
+  {
+    "chapterid": 32,
+    "noOfVerses": 52,
+    "bookid": 5
+  },
+  {
+    "chapterid": 33,
+    "noOfVerses": 29,
+    "bookid": 5
+  },
+  {
+    "chapterid": 34,
+    "noOfVerses": 12,
+    "bookid": 5
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 18,
+    "bookid": 6
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 24,
+    "bookid": 6
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 17,
+    "bookid": 6
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 24,
+    "bookid": 6
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 15,
+    "bookid": 6
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 27,
+    "bookid": 6
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 26,
+    "bookid": 6
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 35,
+    "bookid": 6
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 27,
+    "bookid": 6
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 43,
+    "bookid": 6
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 23,
+    "bookid": 6
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 24,
+    "bookid": 6
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 33,
+    "bookid": 6
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 15,
+    "bookid": 6
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 63,
+    "bookid": 6
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 10,
+    "bookid": 6
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 18,
+    "bookid": 6
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 28,
+    "bookid": 6
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 51,
+    "bookid": 6
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 9,
+    "bookid": 6
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 45,
+    "bookid": 6
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 34,
+    "bookid": 6
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 16,
+    "bookid": 6
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 33,
+    "bookid": 6
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 36,
+    "bookid": 7
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 23,
+    "bookid": 7
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 31,
+    "bookid": 7
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 24,
+    "bookid": 7
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 31,
+    "bookid": 7
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 40,
+    "bookid": 7
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 25,
+    "bookid": 7
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 35,
+    "bookid": 7
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 57,
+    "bookid": 7
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 18,
+    "bookid": 7
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 40,
+    "bookid": 7
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 15,
+    "bookid": 7
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 25,
+    "bookid": 7
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 20,
+    "bookid": 7
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 20,
+    "bookid": 7
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 31,
+    "bookid": 7
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 13,
+    "bookid": 7
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 31,
+    "bookid": 7
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 30,
+    "bookid": 7
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 48,
+    "bookid": 7
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 25,
+    "bookid": 7
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 22,
+    "bookid": 8
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 23,
+    "bookid": 8
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 18,
+    "bookid": 8
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 22,
+    "bookid": 8
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 28,
+    "bookid": 9
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 36,
+    "bookid": 9
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 21,
+    "bookid": 9
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 22,
+    "bookid": 9
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 12,
+    "bookid": 9
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 21,
+    "bookid": 9
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 17,
+    "bookid": 9
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 22,
+    "bookid": 9
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 27,
+    "bookid": 9
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 27,
+    "bookid": 9
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 15,
+    "bookid": 9
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 25,
+    "bookid": 9
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 23,
+    "bookid": 9
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 52,
+    "bookid": 9
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 35,
+    "bookid": 9
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 23,
+    "bookid": 9
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 58,
+    "bookid": 9
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 30,
+    "bookid": 9
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 24,
+    "bookid": 9
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 42,
+    "bookid": 9
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 15,
+    "bookid": 9
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 23,
+    "bookid": 9
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 29,
+    "bookid": 9
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 22,
+    "bookid": 9
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 44,
+    "bookid": 9
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 25,
+    "bookid": 9
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 12,
+    "bookid": 9
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 25,
+    "bookid": 9
+  },
+  {
+    "chapterid": 29,
+    "noOfVerses": 11,
+    "bookid": 9
+  },
+  {
+    "chapterid": 30,
+    "noOfVerses": 31,
+    "bookid": 9
+  },
+  {
+    "chapterid": 31,
+    "noOfVerses": 13,
+    "bookid": 9
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 27,
+    "bookid": 10
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 32,
+    "bookid": 10
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 39,
+    "bookid": 10
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 12,
+    "bookid": 10
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 25,
+    "bookid": 10
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 23,
+    "bookid": 10
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 29,
+    "bookid": 10
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 18,
+    "bookid": 10
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 13,
+    "bookid": 10
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 19,
+    "bookid": 10
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 27,
+    "bookid": 10
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 31,
+    "bookid": 10
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 39,
+    "bookid": 10
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 33,
+    "bookid": 10
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 37,
+    "bookid": 10
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 23,
+    "bookid": 10
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 29,
+    "bookid": 10
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 33,
+    "bookid": 10
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 43,
+    "bookid": 10
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 26,
+    "bookid": 10
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 22,
+    "bookid": 10
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 51,
+    "bookid": 10
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 39,
+    "bookid": 10
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 25,
+    "bookid": 10
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 53,
+    "bookid": 11
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 46,
+    "bookid": 11
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 28,
+    "bookid": 11
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 34,
+    "bookid": 11
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 18,
+    "bookid": 11
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 38,
+    "bookid": 11
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 51,
+    "bookid": 11
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 66,
+    "bookid": 11
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 28,
+    "bookid": 11
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 29,
+    "bookid": 11
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 43,
+    "bookid": 11
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 33,
+    "bookid": 11
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 34,
+    "bookid": 11
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 31,
+    "bookid": 11
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 34,
+    "bookid": 11
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 34,
+    "bookid": 11
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 24,
+    "bookid": 11
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 46,
+    "bookid": 11
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 21,
+    "bookid": 11
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 43,
+    "bookid": 11
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 29,
+    "bookid": 11
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 53,
+    "bookid": 11
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 18,
+    "bookid": 12
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 25,
+    "bookid": 12
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 27,
+    "bookid": 12
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 44,
+    "bookid": 12
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 27,
+    "bookid": 12
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 33,
+    "bookid": 12
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 20,
+    "bookid": 12
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 29,
+    "bookid": 12
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 37,
+    "bookid": 12
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 36,
+    "bookid": 12
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 21,
+    "bookid": 12
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 21,
+    "bookid": 12
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 25,
+    "bookid": 12
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 29,
+    "bookid": 12
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 38,
+    "bookid": 12
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 20,
+    "bookid": 12
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 41,
+    "bookid": 12
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 37,
+    "bookid": 12
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 37,
+    "bookid": 12
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 21,
+    "bookid": 12
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 26,
+    "bookid": 12
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 20,
+    "bookid": 12
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 37,
+    "bookid": 12
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 20,
+    "bookid": 12
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 30,
+    "bookid": 12
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 54,
+    "bookid": 13
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 55,
+    "bookid": 13
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 24,
+    "bookid": 13
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 43,
+    "bookid": 13
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 26,
+    "bookid": 13
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 81,
+    "bookid": 13
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 40,
+    "bookid": 13
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 40,
+    "bookid": 13
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 44,
+    "bookid": 13
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 14,
+    "bookid": 13
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 47,
+    "bookid": 13
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 40,
+    "bookid": 13
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 14,
+    "bookid": 13
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 17,
+    "bookid": 13
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 29,
+    "bookid": 13
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 43,
+    "bookid": 13
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 27,
+    "bookid": 13
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 17,
+    "bookid": 13
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 19,
+    "bookid": 13
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 8,
+    "bookid": 13
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 30,
+    "bookid": 13
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 19,
+    "bookid": 13
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 32,
+    "bookid": 13
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 31,
+    "bookid": 13
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 31,
+    "bookid": 13
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 32,
+    "bookid": 13
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 34,
+    "bookid": 13
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 21,
+    "bookid": 13
+  },
+  {
+    "chapterid": 29,
+    "noOfVerses": 30,
+    "bookid": 13
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 17,
+    "bookid": 14
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 18,
+    "bookid": 14
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 17,
+    "bookid": 14
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 22,
+    "bookid": 14
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 14,
+    "bookid": 14
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 42,
+    "bookid": 14
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 22,
+    "bookid": 14
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 18,
+    "bookid": 14
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 31,
+    "bookid": 14
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 19,
+    "bookid": 14
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 23,
+    "bookid": 14
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 16,
+    "bookid": 14
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 22,
+    "bookid": 14
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 15,
+    "bookid": 14
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 19,
+    "bookid": 14
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 14,
+    "bookid": 14
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 19,
+    "bookid": 14
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 34,
+    "bookid": 14
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 11,
+    "bookid": 14
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 37,
+    "bookid": 14
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 20,
+    "bookid": 14
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 12,
+    "bookid": 14
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 21,
+    "bookid": 14
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 27,
+    "bookid": 14
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 28,
+    "bookid": 14
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 23,
+    "bookid": 14
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 9,
+    "bookid": 14
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 27,
+    "bookid": 14
+  },
+  {
+    "chapterid": 29,
+    "noOfVerses": 36,
+    "bookid": 14
+  },
+  {
+    "chapterid": 30,
+    "noOfVerses": 27,
+    "bookid": 14
+  },
+  {
+    "chapterid": 31,
+    "noOfVerses": 21,
+    "bookid": 14
+  },
+  {
+    "chapterid": 32,
+    "noOfVerses": 33,
+    "bookid": 14
+  },
+  {
+    "chapterid": 33,
+    "noOfVerses": 25,
+    "bookid": 14
+  },
+  {
+    "chapterid": 34,
+    "noOfVerses": 33,
+    "bookid": 14
+  },
+  {
+    "chapterid": 35,
+    "noOfVerses": 27,
+    "bookid": 14
+  },
+  {
+    "chapterid": 36,
+    "noOfVerses": 23,
+    "bookid": 14
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 11,
+    "bookid": 15
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 70,
+    "bookid": 15
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 13,
+    "bookid": 15
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 24,
+    "bookid": 15
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 17,
+    "bookid": 15
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 22,
+    "bookid": 15
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 28,
+    "bookid": 15
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 36,
+    "bookid": 15
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 15,
+    "bookid": 15
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 44,
+    "bookid": 15
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 11,
+    "bookid": 16
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 20,
+    "bookid": 16
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 32,
+    "bookid": 16
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 23,
+    "bookid": 16
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 19,
+    "bookid": 16
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 19,
+    "bookid": 16
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 73,
+    "bookid": 16
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 18,
+    "bookid": 16
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 38,
+    "bookid": 16
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 39,
+    "bookid": 16
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 36,
+    "bookid": 16
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 47,
+    "bookid": 16
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 31,
+    "bookid": 16
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 22,
+    "bookid": 17
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 23,
+    "bookid": 17
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 15,
+    "bookid": 17
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 17,
+    "bookid": 17
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 14,
+    "bookid": 17
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 14,
+    "bookid": 17
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 10,
+    "bookid": 17
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 17,
+    "bookid": 17
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 32,
+    "bookid": 17
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 3,
+    "bookid": 17
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 22,
+    "bookid": 18
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 13,
+    "bookid": 18
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 26,
+    "bookid": 18
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 21,
+    "bookid": 18
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 27,
+    "bookid": 18
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 30,
+    "bookid": 18
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 21,
+    "bookid": 18
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 22,
+    "bookid": 18
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 35,
+    "bookid": 18
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 22,
+    "bookid": 18
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 20,
+    "bookid": 18
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 25,
+    "bookid": 18
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 28,
+    "bookid": 18
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 22,
+    "bookid": 18
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 35,
+    "bookid": 18
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 22,
+    "bookid": 18
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 16,
+    "bookid": 18
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 21,
+    "bookid": 18
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 29,
+    "bookid": 18
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 29,
+    "bookid": 18
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 34,
+    "bookid": 18
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 30,
+    "bookid": 18
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 17,
+    "bookid": 18
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 25,
+    "bookid": 18
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 6,
+    "bookid": 18
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 14,
+    "bookid": 18
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 23,
+    "bookid": 18
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 28,
+    "bookid": 18
+  },
+  {
+    "chapterid": 29,
+    "noOfVerses": 25,
+    "bookid": 18
+  },
+  {
+    "chapterid": 30,
+    "noOfVerses": 31,
+    "bookid": 18
+  },
+  {
+    "chapterid": 31,
+    "noOfVerses": 40,
+    "bookid": 18
+  },
+  {
+    "chapterid": 32,
+    "noOfVerses": 22,
+    "bookid": 18
+  },
+  {
+    "chapterid": 33,
+    "noOfVerses": 33,
+    "bookid": 18
+  },
+  {
+    "chapterid": 34,
+    "noOfVerses": 37,
+    "bookid": 18
+  },
+  {
+    "chapterid": 35,
+    "noOfVerses": 16,
+    "bookid": 18
+  },
+  {
+    "chapterid": 36,
+    "noOfVerses": 33,
+    "bookid": 18
+  },
+  {
+    "chapterid": 37,
+    "noOfVerses": 24,
+    "bookid": 18
+  },
+  {
+    "chapterid": 38,
+    "noOfVerses": 41,
+    "bookid": 18
+  },
+  {
+    "chapterid": 39,
+    "noOfVerses": 30,
+    "bookid": 18
+  },
+  {
+    "chapterid": 40,
+    "noOfVerses": 24,
+    "bookid": 18
+  },
+  {
+    "chapterid": 41,
+    "noOfVerses": 34,
+    "bookid": 18
+  },
+  {
+    "chapterid": 42,
+    "noOfVerses": 17,
+    "bookid": 18
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 6,
+    "bookid": 19
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 12,
+    "bookid": 19
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 8,
+    "bookid": 19
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 8,
+    "bookid": 19
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 12,
+    "bookid": 19
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 10,
+    "bookid": 19
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 17,
+    "bookid": 19
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 9,
+    "bookid": 19
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 20,
+    "bookid": 19
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 18,
+    "bookid": 19
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 7,
+    "bookid": 19
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 8,
+    "bookid": 19
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 6,
+    "bookid": 19
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 7,
+    "bookid": 19
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 5,
+    "bookid": 19
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 11,
+    "bookid": 19
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 15,
+    "bookid": 19
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 50,
+    "bookid": 19
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 14,
+    "bookid": 19
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 9,
+    "bookid": 19
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 13,
+    "bookid": 19
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 31,
+    "bookid": 19
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 6,
+    "bookid": 19
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 10,
+    "bookid": 19
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 22,
+    "bookid": 19
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 12,
+    "bookid": 19
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 14,
+    "bookid": 19
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 9,
+    "bookid": 19
+  },
+  {
+    "chapterid": 29,
+    "noOfVerses": 11,
+    "bookid": 19
+  },
+  {
+    "chapterid": 30,
+    "noOfVerses": 12,
+    "bookid": 19
+  },
+  {
+    "chapterid": 31,
+    "noOfVerses": 24,
+    "bookid": 19
+  },
+  {
+    "chapterid": 32,
+    "noOfVerses": 11,
+    "bookid": 19
+  },
+  {
+    "chapterid": 33,
+    "noOfVerses": 22,
+    "bookid": 19
+  },
+  {
+    "chapterid": 34,
+    "noOfVerses": 22,
+    "bookid": 19
+  },
+  {
+    "chapterid": 35,
+    "noOfVerses": 28,
+    "bookid": 19
+  },
+  {
+    "chapterid": 36,
+    "noOfVerses": 12,
+    "bookid": 19
+  },
+  {
+    "chapterid": 37,
+    "noOfVerses": 40,
+    "bookid": 19
+  },
+  {
+    "chapterid": 38,
+    "noOfVerses": 22,
+    "bookid": 19
+  },
+  {
+    "chapterid": 39,
+    "noOfVerses": 13,
+    "bookid": 19
+  },
+  {
+    "chapterid": 40,
+    "noOfVerses": 17,
+    "bookid": 19
+  },
+  {
+    "chapterid": 41,
+    "noOfVerses": 13,
+    "bookid": 19
+  },
+  {
+    "chapterid": 42,
+    "noOfVerses": 11,
+    "bookid": 19
+  },
+  {
+    "chapterid": 43,
+    "noOfVerses": 5,
+    "bookid": 19
+  },
+  {
+    "chapterid": 44,
+    "noOfVerses": 26,
+    "bookid": 19
+  },
+  {
+    "chapterid": 45,
+    "noOfVerses": 17,
+    "bookid": 19
+  },
+  {
+    "chapterid": 46,
+    "noOfVerses": 11,
+    "bookid": 19
+  },
+  {
+    "chapterid": 47,
+    "noOfVerses": 9,
+    "bookid": 19
+  },
+  {
+    "chapterid": 48,
+    "noOfVerses": 14,
+    "bookid": 19
+  },
+  {
+    "chapterid": 49,
+    "noOfVerses": 20,
+    "bookid": 19
+  },
+  {
+    "chapterid": 50,
+    "noOfVerses": 23,
+    "bookid": 19
+  },
+  {
+    "chapterid": 51,
+    "noOfVerses": 19,
+    "bookid": 19
+  },
+  {
+    "chapterid": 52,
+    "noOfVerses": 9,
+    "bookid": 19
+  },
+  {
+    "chapterid": 53,
+    "noOfVerses": 6,
+    "bookid": 19
+  },
+  {
+    "chapterid": 54,
+    "noOfVerses": 7,
+    "bookid": 19
+  },
+  {
+    "chapterid": 55,
+    "noOfVerses": 23,
+    "bookid": 19
+  },
+  {
+    "chapterid": 56,
+    "noOfVerses": 13,
+    "bookid": 19
+  },
+  {
+    "chapterid": 57,
+    "noOfVerses": 11,
+    "bookid": 19
+  },
+  {
+    "chapterid": 58,
+    "noOfVerses": 11,
+    "bookid": 19
+  },
+  {
+    "chapterid": 59,
+    "noOfVerses": 17,
+    "bookid": 19
+  },
+  {
+    "chapterid": 60,
+    "noOfVerses": 12,
+    "bookid": 19
+  },
+  {
+    "chapterid": 61,
+    "noOfVerses": 8,
+    "bookid": 19
+  },
+  {
+    "chapterid": 62,
+    "noOfVerses": 12,
+    "bookid": 19
+  },
+  {
+    "chapterid": 63,
+    "noOfVerses": 11,
+    "bookid": 19
+  },
+  {
+    "chapterid": 64,
+    "noOfVerses": 10,
+    "bookid": 19
+  },
+  {
+    "chapterid": 65,
+    "noOfVerses": 13,
+    "bookid": 19
+  },
+  {
+    "chapterid": 66,
+    "noOfVerses": 20,
+    "bookid": 19
+  },
+  {
+    "chapterid": 67,
+    "noOfVerses": 7,
+    "bookid": 19
+  },
+  {
+    "chapterid": 68,
+    "noOfVerses": 35,
+    "bookid": 19
+  },
+  {
+    "chapterid": 69,
+    "noOfVerses": 36,
+    "bookid": 19
+  },
+  {
+    "chapterid": 70,
+    "noOfVerses": 5,
+    "bookid": 19
+  },
+  {
+    "chapterid": 71,
+    "noOfVerses": 24,
+    "bookid": 19
+  },
+  {
+    "chapterid": 72,
+    "noOfVerses": 20,
+    "bookid": 19
+  },
+  {
+    "chapterid": 73,
+    "noOfVerses": 28,
+    "bookid": 19
+  },
+  {
+    "chapterid": 74,
+    "noOfVerses": 23,
+    "bookid": 19
+  },
+  {
+    "chapterid": 75,
+    "noOfVerses": 10,
+    "bookid": 19
+  },
+  {
+    "chapterid": 76,
+    "noOfVerses": 13,
+    "bookid": 19
+  },
+  {
+    "chapterid": 77,
+    "noOfVerses": 20,
+    "bookid": 19
+  },
+  {
+    "chapterid": 78,
+    "noOfVerses": 72,
+    "bookid": 19
+  },
+  {
+    "chapterid": 79,
+    "noOfVerses": 13,
+    "bookid": 19
+  },
+  {
+    "chapterid": 80,
+    "noOfVerses": 19,
+    "bookid": 19
+  },
+  {
+    "chapterid": 81,
+    "noOfVerses": 16,
+    "bookid": 19
+  },
+  {
+    "chapterid": 82,
+    "noOfVerses": 8,
+    "bookid": 19
+  },
+  {
+    "chapterid": 83,
+    "noOfVerses": 18,
+    "bookid": 19
+  },
+  {
+    "chapterid": 84,
+    "noOfVerses": 12,
+    "bookid": 19
+  },
+  {
+    "chapterid": 85,
+    "noOfVerses": 13,
+    "bookid": 19
+  },
+  {
+    "chapterid": 86,
+    "noOfVerses": 17,
+    "bookid": 19
+  },
+  {
+    "chapterid": 87,
+    "noOfVerses": 7,
+    "bookid": 19
+  },
+  {
+    "chapterid": 88,
+    "noOfVerses": 18,
+    "bookid": 19
+  },
+  {
+    "chapterid": 89,
+    "noOfVerses": 52,
+    "bookid": 19
+  },
+  {
+    "chapterid": 90,
+    "noOfVerses": 17,
+    "bookid": 19
+  },
+  {
+    "chapterid": 91,
+    "noOfVerses": 16,
+    "bookid": 19
+  },
+  {
+    "chapterid": 92,
+    "noOfVerses": 15,
+    "bookid": 19
+  },
+  {
+    "chapterid": 93,
+    "noOfVerses": 5,
+    "bookid": 19
+  },
+  {
+    "chapterid": 94,
+    "noOfVerses": 23,
+    "bookid": 19
+  },
+  {
+    "chapterid": 95,
+    "noOfVerses": 11,
+    "bookid": 19
+  },
+  {
+    "chapterid": 96,
+    "noOfVerses": 13,
+    "bookid": 19
+  },
+  {
+    "chapterid": 97,
+    "noOfVerses": 12,
+    "bookid": 19
+  },
+  {
+    "chapterid": 98,
+    "noOfVerses": 9,
+    "bookid": 19
+  },
+  {
+    "chapterid": 99,
+    "noOfVerses": 9,
+    "bookid": 19
+  },
+  {
+    "chapterid": 100,
+    "noOfVerses": 5,
+    "bookid": 19
+  },
+  {
+    "chapterid": 101,
+    "noOfVerses": 8,
+    "bookid": 19
+  },
+  {
+    "chapterid": 102,
+    "noOfVerses": 28,
+    "bookid": 19
+  },
+  {
+    "chapterid": 103,
+    "noOfVerses": 22,
+    "bookid": 19
+  },
+  {
+    "chapterid": 104,
+    "noOfVerses": 35,
+    "bookid": 19
+  },
+  {
+    "chapterid": 105,
+    "noOfVerses": 45,
+    "bookid": 19
+  },
+  {
+    "chapterid": 106,
+    "noOfVerses": 48,
+    "bookid": 19
+  },
+  {
+    "chapterid": 107,
+    "noOfVerses": 43,
+    "bookid": 19
+  },
+  {
+    "chapterid": 108,
+    "noOfVerses": 13,
+    "bookid": 19
+  },
+  {
+    "chapterid": 109,
+    "noOfVerses": 31,
+    "bookid": 19
+  },
+  {
+    "chapterid": 110,
+    "noOfVerses": 7,
+    "bookid": 19
+  },
+  {
+    "chapterid": 111,
+    "noOfVerses": 10,
+    "bookid": 19
+  },
+  {
+    "chapterid": 112,
+    "noOfVerses": 10,
+    "bookid": 19
+  },
+  {
+    "chapterid": 113,
+    "noOfVerses": 9,
+    "bookid": 19
+  },
+  {
+    "chapterid": 114,
+    "noOfVerses": 8,
+    "bookid": 19
+  },
+  {
+    "chapterid": 115,
+    "noOfVerses": 18,
+    "bookid": 19
+  },
+  {
+    "chapterid": 116,
+    "noOfVerses": 19,
+    "bookid": 19
+  },
+  {
+    "chapterid": 117,
+    "noOfVerses": 2,
+    "bookid": 19
+  },
+  {
+    "chapterid": 118,
+    "noOfVerses": 29,
+    "bookid": 19
+  },
+  {
+    "chapterid": 119,
+    "noOfVerses": 176,
+    "bookid": 19
+  },
+  {
+    "chapterid": 120,
+    "noOfVerses": 7,
+    "bookid": 19
+  },
+  {
+    "chapterid": 121,
+    "noOfVerses": 8,
+    "bookid": 19
+  },
+  {
+    "chapterid": 122,
+    "noOfVerses": 9,
+    "bookid": 19
+  },
+  {
+    "chapterid": 123,
+    "noOfVerses": 4,
+    "bookid": 19
+  },
+  {
+    "chapterid": 124,
+    "noOfVerses": 8,
+    "bookid": 19
+  },
+  {
+    "chapterid": 125,
+    "noOfVerses": 5,
+    "bookid": 19
+  },
+  {
+    "chapterid": 126,
+    "noOfVerses": 6,
+    "bookid": 19
+  },
+  {
+    "chapterid": 127,
+    "noOfVerses": 5,
+    "bookid": 19
+  },
+  {
+    "chapterid": 128,
+    "noOfVerses": 6,
+    "bookid": 19
+  },
+  {
+    "chapterid": 129,
+    "noOfVerses": 8,
+    "bookid": 19
+  },
+  {
+    "chapterid": 130,
+    "noOfVerses": 8,
+    "bookid": 19
+  },
+  {
+    "chapterid": 131,
+    "noOfVerses": 3,
+    "bookid": 19
+  },
+  {
+    "chapterid": 132,
+    "noOfVerses": 18,
+    "bookid": 19
+  },
+  {
+    "chapterid": 133,
+    "noOfVerses": 3,
+    "bookid": 19
+  },
+  {
+    "chapterid": 134,
+    "noOfVerses": 3,
+    "bookid": 19
+  },
+  {
+    "chapterid": 135,
+    "noOfVerses": 21,
+    "bookid": 19
+  },
+  {
+    "chapterid": 136,
+    "noOfVerses": 26,
+    "bookid": 19
+  },
+  {
+    "chapterid": 137,
+    "noOfVerses": 9,
+    "bookid": 19
+  },
+  {
+    "chapterid": 138,
+    "noOfVerses": 8,
+    "bookid": 19
+  },
+  {
+    "chapterid": 139,
+    "noOfVerses": 24,
+    "bookid": 19
+  },
+  {
+    "chapterid": 140,
+    "noOfVerses": 13,
+    "bookid": 19
+  },
+  {
+    "chapterid": 141,
+    "noOfVerses": 10,
+    "bookid": 19
+  },
+  {
+    "chapterid": 142,
+    "noOfVerses": 7,
+    "bookid": 19
+  },
+  {
+    "chapterid": 143,
+    "noOfVerses": 12,
+    "bookid": 19
+  },
+  {
+    "chapterid": 144,
+    "noOfVerses": 15,
+    "bookid": 19
+  },
+  {
+    "chapterid": 145,
+    "noOfVerses": 21,
+    "bookid": 19
+  },
+  {
+    "chapterid": 146,
+    "noOfVerses": 10,
+    "bookid": 19
+  },
+  {
+    "chapterid": 147,
+    "noOfVerses": 20,
+    "bookid": 19
+  },
+  {
+    "chapterid": 148,
+    "noOfVerses": 14,
+    "bookid": 19
+  },
+  {
+    "chapterid": 149,
+    "noOfVerses": 9,
+    "bookid": 19
+  },
+  {
+    "chapterid": 150,
+    "noOfVerses": 6,
+    "bookid": 19
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 33,
+    "bookid": 20
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 22,
+    "bookid": 20
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 35,
+    "bookid": 20
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 27,
+    "bookid": 20
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 23,
+    "bookid": 20
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 35,
+    "bookid": 20
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 27,
+    "bookid": 20
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 36,
+    "bookid": 20
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 18,
+    "bookid": 20
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 32,
+    "bookid": 20
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 31,
+    "bookid": 20
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 28,
+    "bookid": 20
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 25,
+    "bookid": 20
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 35,
+    "bookid": 20
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 33,
+    "bookid": 20
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 33,
+    "bookid": 20
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 28,
+    "bookid": 20
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 24,
+    "bookid": 20
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 29,
+    "bookid": 20
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 30,
+    "bookid": 20
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 31,
+    "bookid": 20
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 29,
+    "bookid": 20
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 35,
+    "bookid": 20
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 34,
+    "bookid": 20
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 28,
+    "bookid": 20
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 28,
+    "bookid": 20
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 27,
+    "bookid": 20
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 28,
+    "bookid": 20
+  },
+  {
+    "chapterid": 29,
+    "noOfVerses": 27,
+    "bookid": 20
+  },
+  {
+    "chapterid": 30,
+    "noOfVerses": 33,
+    "bookid": 20
+  },
+  {
+    "chapterid": 31,
+    "noOfVerses": 31,
+    "bookid": 20
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 18,
+    "bookid": 21
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 26,
+    "bookid": 21
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 22,
+    "bookid": 21
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 16,
+    "bookid": 21
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 20,
+    "bookid": 21
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 12,
+    "bookid": 21
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 29,
+    "bookid": 21
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 17,
+    "bookid": 21
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 18,
+    "bookid": 21
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 20,
+    "bookid": 21
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 10,
+    "bookid": 21
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 14,
+    "bookid": 21
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 17,
+    "bookid": 22
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 17,
+    "bookid": 22
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 11,
+    "bookid": 22
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 16,
+    "bookid": 22
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 16,
+    "bookid": 22
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 13,
+    "bookid": 22
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 13,
+    "bookid": 22
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 14,
+    "bookid": 22
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 31,
+    "bookid": 23
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 22,
+    "bookid": 23
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 26,
+    "bookid": 23
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 6,
+    "bookid": 23
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 30,
+    "bookid": 23
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 13,
+    "bookid": 23
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 25,
+    "bookid": 23
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 22,
+    "bookid": 23
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 21,
+    "bookid": 23
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 34,
+    "bookid": 23
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 16,
+    "bookid": 23
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 6,
+    "bookid": 23
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 22,
+    "bookid": 23
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 32,
+    "bookid": 23
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 9,
+    "bookid": 23
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 14,
+    "bookid": 23
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 14,
+    "bookid": 23
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 7,
+    "bookid": 23
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 25,
+    "bookid": 23
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 6,
+    "bookid": 23
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 17,
+    "bookid": 23
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 25,
+    "bookid": 23
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 18,
+    "bookid": 23
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 23,
+    "bookid": 23
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 12,
+    "bookid": 23
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 21,
+    "bookid": 23
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 13,
+    "bookid": 23
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 29,
+    "bookid": 23
+  },
+  {
+    "chapterid": 29,
+    "noOfVerses": 24,
+    "bookid": 23
+  },
+  {
+    "chapterid": 30,
+    "noOfVerses": 33,
+    "bookid": 23
+  },
+  {
+    "chapterid": 31,
+    "noOfVerses": 9,
+    "bookid": 23
+  },
+  {
+    "chapterid": 32,
+    "noOfVerses": 20,
+    "bookid": 23
+  },
+  {
+    "chapterid": 33,
+    "noOfVerses": 24,
+    "bookid": 23
+  },
+  {
+    "chapterid": 34,
+    "noOfVerses": 17,
+    "bookid": 23
+  },
+  {
+    "chapterid": 35,
+    "noOfVerses": 10,
+    "bookid": 23
+  },
+  {
+    "chapterid": 36,
+    "noOfVerses": 22,
+    "bookid": 23
+  },
+  {
+    "chapterid": 37,
+    "noOfVerses": 38,
+    "bookid": 23
+  },
+  {
+    "chapterid": 38,
+    "noOfVerses": 22,
+    "bookid": 23
+  },
+  {
+    "chapterid": 39,
+    "noOfVerses": 8,
+    "bookid": 23
+  },
+  {
+    "chapterid": 40,
+    "noOfVerses": 31,
+    "bookid": 23
+  },
+  {
+    "chapterid": 41,
+    "noOfVerses": 29,
+    "bookid": 23
+  },
+  {
+    "chapterid": 42,
+    "noOfVerses": 25,
+    "bookid": 23
+  },
+  {
+    "chapterid": 43,
+    "noOfVerses": 28,
+    "bookid": 23
+  },
+  {
+    "chapterid": 44,
+    "noOfVerses": 28,
+    "bookid": 23
+  },
+  {
+    "chapterid": 45,
+    "noOfVerses": 25,
+    "bookid": 23
+  },
+  {
+    "chapterid": 46,
+    "noOfVerses": 13,
+    "bookid": 23
+  },
+  {
+    "chapterid": 47,
+    "noOfVerses": 15,
+    "bookid": 23
+  },
+  {
+    "chapterid": 48,
+    "noOfVerses": 22,
+    "bookid": 23
+  },
+  {
+    "chapterid": 49,
+    "noOfVerses": 26,
+    "bookid": 23
+  },
+  {
+    "chapterid": 50,
+    "noOfVerses": 11,
+    "bookid": 23
+  },
+  {
+    "chapterid": 51,
+    "noOfVerses": 23,
+    "bookid": 23
+  },
+  {
+    "chapterid": 52,
+    "noOfVerses": 15,
+    "bookid": 23
+  },
+  {
+    "chapterid": 53,
+    "noOfVerses": 12,
+    "bookid": 23
+  },
+  {
+    "chapterid": 54,
+    "noOfVerses": 17,
+    "bookid": 23
+  },
+  {
+    "chapterid": 55,
+    "noOfVerses": 13,
+    "bookid": 23
+  },
+  {
+    "chapterid": 56,
+    "noOfVerses": 12,
+    "bookid": 23
+  },
+  {
+    "chapterid": 57,
+    "noOfVerses": 21,
+    "bookid": 23
+  },
+  {
+    "chapterid": 58,
+    "noOfVerses": 14,
+    "bookid": 23
+  },
+  {
+    "chapterid": 59,
+    "noOfVerses": 21,
+    "bookid": 23
+  },
+  {
+    "chapterid": 60,
+    "noOfVerses": 22,
+    "bookid": 23
+  },
+  {
+    "chapterid": 61,
+    "noOfVerses": 11,
+    "bookid": 23
+  },
+  {
+    "chapterid": 62,
+    "noOfVerses": 12,
+    "bookid": 23
+  },
+  {
+    "chapterid": 63,
+    "noOfVerses": 19,
+    "bookid": 23
+  },
+  {
+    "chapterid": 64,
+    "noOfVerses": 12,
+    "bookid": 23
+  },
+  {
+    "chapterid": 65,
+    "noOfVerses": 25,
+    "bookid": 23
+  },
+  {
+    "chapterid": 66,
+    "noOfVerses": 24,
+    "bookid": 23
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 19,
+    "bookid": 24
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 37,
+    "bookid": 24
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 25,
+    "bookid": 24
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 31,
+    "bookid": 24
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 31,
+    "bookid": 24
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 30,
+    "bookid": 24
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 34,
+    "bookid": 24
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 22,
+    "bookid": 24
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 26,
+    "bookid": 24
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 25,
+    "bookid": 24
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 23,
+    "bookid": 24
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 17,
+    "bookid": 24
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 27,
+    "bookid": 24
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 22,
+    "bookid": 24
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 21,
+    "bookid": 24
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 21,
+    "bookid": 24
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 27,
+    "bookid": 24
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 23,
+    "bookid": 24
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 15,
+    "bookid": 24
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 18,
+    "bookid": 24
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 14,
+    "bookid": 24
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 30,
+    "bookid": 24
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 40,
+    "bookid": 24
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 10,
+    "bookid": 24
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 38,
+    "bookid": 24
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 24,
+    "bookid": 24
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 22,
+    "bookid": 24
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 17,
+    "bookid": 24
+  },
+  {
+    "chapterid": 29,
+    "noOfVerses": 32,
+    "bookid": 24
+  },
+  {
+    "chapterid": 30,
+    "noOfVerses": 24,
+    "bookid": 24
+  },
+  {
+    "chapterid": 31,
+    "noOfVerses": 40,
+    "bookid": 24
+  },
+  {
+    "chapterid": 32,
+    "noOfVerses": 44,
+    "bookid": 24
+  },
+  {
+    "chapterid": 33,
+    "noOfVerses": 26,
+    "bookid": 24
+  },
+  {
+    "chapterid": 34,
+    "noOfVerses": 22,
+    "bookid": 24
+  },
+  {
+    "chapterid": 35,
+    "noOfVerses": 19,
+    "bookid": 24
+  },
+  {
+    "chapterid": 36,
+    "noOfVerses": 32,
+    "bookid": 24
+  },
+  {
+    "chapterid": 37,
+    "noOfVerses": 21,
+    "bookid": 24
+  },
+  {
+    "chapterid": 38,
+    "noOfVerses": 28,
+    "bookid": 24
+  },
+  {
+    "chapterid": 39,
+    "noOfVerses": 18,
+    "bookid": 24
+  },
+  {
+    "chapterid": 40,
+    "noOfVerses": 16,
+    "bookid": 24
+  },
+  {
+    "chapterid": 41,
+    "noOfVerses": 18,
+    "bookid": 24
+  },
+  {
+    "chapterid": 42,
+    "noOfVerses": 22,
+    "bookid": 24
+  },
+  {
+    "chapterid": 43,
+    "noOfVerses": 13,
+    "bookid": 24
+  },
+  {
+    "chapterid": 44,
+    "noOfVerses": 30,
+    "bookid": 24
+  },
+  {
+    "chapterid": 45,
+    "noOfVerses": 5,
+    "bookid": 24
+  },
+  {
+    "chapterid": 46,
+    "noOfVerses": 28,
+    "bookid": 24
+  },
+  {
+    "chapterid": 47,
+    "noOfVerses": 7,
+    "bookid": 24
+  },
+  {
+    "chapterid": 48,
+    "noOfVerses": 47,
+    "bookid": 24
+  },
+  {
+    "chapterid": 49,
+    "noOfVerses": 39,
+    "bookid": 24
+  },
+  {
+    "chapterid": 50,
+    "noOfVerses": 46,
+    "bookid": 24
+  },
+  {
+    "chapterid": 51,
+    "noOfVerses": 64,
+    "bookid": 24
+  },
+  {
+    "chapterid": 52,
+    "noOfVerses": 34,
+    "bookid": 24
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 22,
+    "bookid": 25
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 22,
+    "bookid": 25
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 66,
+    "bookid": 25
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 22,
+    "bookid": 25
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 22,
+    "bookid": 25
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 28,
+    "bookid": 26
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 10,
+    "bookid": 26
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 27,
+    "bookid": 26
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 17,
+    "bookid": 26
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 17,
+    "bookid": 26
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 14,
+    "bookid": 26
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 27,
+    "bookid": 26
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 18,
+    "bookid": 26
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 11,
+    "bookid": 26
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 22,
+    "bookid": 26
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 25,
+    "bookid": 26
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 28,
+    "bookid": 26
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 23,
+    "bookid": 26
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 23,
+    "bookid": 26
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 8,
+    "bookid": 26
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 63,
+    "bookid": 26
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 24,
+    "bookid": 26
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 32,
+    "bookid": 26
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 14,
+    "bookid": 26
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 49,
+    "bookid": 26
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 32,
+    "bookid": 26
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 31,
+    "bookid": 26
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 49,
+    "bookid": 26
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 27,
+    "bookid": 26
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 17,
+    "bookid": 26
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 21,
+    "bookid": 26
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 36,
+    "bookid": 26
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 26,
+    "bookid": 26
+  },
+  {
+    "chapterid": 29,
+    "noOfVerses": 21,
+    "bookid": 26
+  },
+  {
+    "chapterid": 30,
+    "noOfVerses": 26,
+    "bookid": 26
+  },
+  {
+    "chapterid": 31,
+    "noOfVerses": 18,
+    "bookid": 26
+  },
+  {
+    "chapterid": 32,
+    "noOfVerses": 32,
+    "bookid": 26
+  },
+  {
+    "chapterid": 33,
+    "noOfVerses": 33,
+    "bookid": 26
+  },
+  {
+    "chapterid": 34,
+    "noOfVerses": 31,
+    "bookid": 26
+  },
+  {
+    "chapterid": 35,
+    "noOfVerses": 15,
+    "bookid": 26
+  },
+  {
+    "chapterid": 36,
+    "noOfVerses": 38,
+    "bookid": 26
+  },
+  {
+    "chapterid": 37,
+    "noOfVerses": 28,
+    "bookid": 26
+  },
+  {
+    "chapterid": 38,
+    "noOfVerses": 23,
+    "bookid": 26
+  },
+  {
+    "chapterid": 39,
+    "noOfVerses": 29,
+    "bookid": 26
+  },
+  {
+    "chapterid": 40,
+    "noOfVerses": 49,
+    "bookid": 26
+  },
+  {
+    "chapterid": 41,
+    "noOfVerses": 26,
+    "bookid": 26
+  },
+  {
+    "chapterid": 42,
+    "noOfVerses": 20,
+    "bookid": 26
+  },
+  {
+    "chapterid": 43,
+    "noOfVerses": 27,
+    "bookid": 26
+  },
+  {
+    "chapterid": 44,
+    "noOfVerses": 31,
+    "bookid": 26
+  },
+  {
+    "chapterid": 45,
+    "noOfVerses": 25,
+    "bookid": 26
+  },
+  {
+    "chapterid": 46,
+    "noOfVerses": 24,
+    "bookid": 26
+  },
+  {
+    "chapterid": 47,
+    "noOfVerses": 23,
+    "bookid": 26
+  },
+  {
+    "chapterid": 48,
+    "noOfVerses": 35,
+    "bookid": 26
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 21,
+    "bookid": 27
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 49,
+    "bookid": 27
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 30,
+    "bookid": 27
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 37,
+    "bookid": 27
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 31,
+    "bookid": 27
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 28,
+    "bookid": 27
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 28,
+    "bookid": 27
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 27,
+    "bookid": 27
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 27,
+    "bookid": 27
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 21,
+    "bookid": 27
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 45,
+    "bookid": 27
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 13,
+    "bookid": 27
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 11,
+    "bookid": 28
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 23,
+    "bookid": 28
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 5,
+    "bookid": 28
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 19,
+    "bookid": 28
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 15,
+    "bookid": 28
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 11,
+    "bookid": 28
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 16,
+    "bookid": 28
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 14,
+    "bookid": 28
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 17,
+    "bookid": 28
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 15,
+    "bookid": 28
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 12,
+    "bookid": 28
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 14,
+    "bookid": 28
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 16,
+    "bookid": 28
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 9,
+    "bookid": 28
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 20,
+    "bookid": 29
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 32,
+    "bookid": 29
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 21,
+    "bookid": 29
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 15,
+    "bookid": 30
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 16,
+    "bookid": 30
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 15,
+    "bookid": 30
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 13,
+    "bookid": 30
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 27,
+    "bookid": 30
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 14,
+    "bookid": 30
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 17,
+    "bookid": 30
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 14,
+    "bookid": 30
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 15,
+    "bookid": 30
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 21,
+    "bookid": 31
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 17,
+    "bookid": 32
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 10,
+    "bookid": 32
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 10,
+    "bookid": 32
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 11,
+    "bookid": 32
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 16,
+    "bookid": 33
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 13,
+    "bookid": 33
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 12,
+    "bookid": 33
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 13,
+    "bookid": 33
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 15,
+    "bookid": 33
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 16,
+    "bookid": 33
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 20,
+    "bookid": 33
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 15,
+    "bookid": 34
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 13,
+    "bookid": 34
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 19,
+    "bookid": 34
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 17,
+    "bookid": 35
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 20,
+    "bookid": 35
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 19,
+    "bookid": 35
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 18,
+    "bookid": 36
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 15,
+    "bookid": 36
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 20,
+    "bookid": 36
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 15,
+    "bookid": 37
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 23,
+    "bookid": 37
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 21,
+    "bookid": 38
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 13,
+    "bookid": 38
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 10,
+    "bookid": 38
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 14,
+    "bookid": 38
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 11,
+    "bookid": 38
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 15,
+    "bookid": 38
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 14,
+    "bookid": 38
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 23,
+    "bookid": 38
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 17,
+    "bookid": 38
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 12,
+    "bookid": 38
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 17,
+    "bookid": 38
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 14,
+    "bookid": 38
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 9,
+    "bookid": 38
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 21,
+    "bookid": 38
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 14,
+    "bookid": 39
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 17,
+    "bookid": 39
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 18,
+    "bookid": 39
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 6,
+    "bookid": 39
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 25,
+    "bookid": 40
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 23,
+    "bookid": 40
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 17,
+    "bookid": 40
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 25,
+    "bookid": 40
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 48,
+    "bookid": 40
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 34,
+    "bookid": 40
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 29,
+    "bookid": 40
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 34,
+    "bookid": 40
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 38,
+    "bookid": 40
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 42,
+    "bookid": 40
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 30,
+    "bookid": 40
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 50,
+    "bookid": 40
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 58,
+    "bookid": 40
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 36,
+    "bookid": 40
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 39,
+    "bookid": 40
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 28,
+    "bookid": 40
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 27,
+    "bookid": 40
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 35,
+    "bookid": 40
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 30,
+    "bookid": 40
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 34,
+    "bookid": 40
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 46,
+    "bookid": 40
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 46,
+    "bookid": 40
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 39,
+    "bookid": 40
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 51,
+    "bookid": 40
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 46,
+    "bookid": 40
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 75,
+    "bookid": 40
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 66,
+    "bookid": 40
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 20,
+    "bookid": 40
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 45,
+    "bookid": 41
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 28,
+    "bookid": 41
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 35,
+    "bookid": 41
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 41,
+    "bookid": 41
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 43,
+    "bookid": 41
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 56,
+    "bookid": 41
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 37,
+    "bookid": 41
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 38,
+    "bookid": 41
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 50,
+    "bookid": 41
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 52,
+    "bookid": 41
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 33,
+    "bookid": 41
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 44,
+    "bookid": 41
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 37,
+    "bookid": 41
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 72,
+    "bookid": 41
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 47,
+    "bookid": 41
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 20,
+    "bookid": 41
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 80,
+    "bookid": 42
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 52,
+    "bookid": 42
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 38,
+    "bookid": 42
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 44,
+    "bookid": 42
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 39,
+    "bookid": 42
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 49,
+    "bookid": 42
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 50,
+    "bookid": 42
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 56,
+    "bookid": 42
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 62,
+    "bookid": 42
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 42,
+    "bookid": 42
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 54,
+    "bookid": 42
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 59,
+    "bookid": 42
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 35,
+    "bookid": 42
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 35,
+    "bookid": 42
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 32,
+    "bookid": 42
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 31,
+    "bookid": 42
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 37,
+    "bookid": 42
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 43,
+    "bookid": 42
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 48,
+    "bookid": 42
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 47,
+    "bookid": 42
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 38,
+    "bookid": 42
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 71,
+    "bookid": 42
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 56,
+    "bookid": 42
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 53,
+    "bookid": 42
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 52,
+    "bookid": 43
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 25,
+    "bookid": 43
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 36,
+    "bookid": 43
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 54,
+    "bookid": 43
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 47,
+    "bookid": 43
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 71,
+    "bookid": 43
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 53,
+    "bookid": 43
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 59,
+    "bookid": 43
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 41,
+    "bookid": 43
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 42,
+    "bookid": 43
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 57,
+    "bookid": 43
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 50,
+    "bookid": 43
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 38,
+    "bookid": 43
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 31,
+    "bookid": 43
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 27,
+    "bookid": 43
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 33,
+    "bookid": 43
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 26,
+    "bookid": 43
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 40,
+    "bookid": 43
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 42,
+    "bookid": 43
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 31,
+    "bookid": 43
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 25,
+    "bookid": 43
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 26,
+    "bookid": 44
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 47,
+    "bookid": 44
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 26,
+    "bookid": 44
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 37,
+    "bookid": 44
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 42,
+    "bookid": 44
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 15,
+    "bookid": 44
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 60,
+    "bookid": 44
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 40,
+    "bookid": 44
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 43,
+    "bookid": 44
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 48,
+    "bookid": 44
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 30,
+    "bookid": 44
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 25,
+    "bookid": 44
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 52,
+    "bookid": 44
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 28,
+    "bookid": 44
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 41,
+    "bookid": 44
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 40,
+    "bookid": 44
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 34,
+    "bookid": 44
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 28,
+    "bookid": 44
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 41,
+    "bookid": 44
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 38,
+    "bookid": 44
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 40,
+    "bookid": 44
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 30,
+    "bookid": 44
+  },
+  {
+    "chapterid": 23,
+    "noOfVerses": 35,
+    "bookid": 44
+  },
+  {
+    "chapterid": 24,
+    "noOfVerses": 27,
+    "bookid": 44
+  },
+  {
+    "chapterid": 25,
+    "noOfVerses": 27,
+    "bookid": 44
+  },
+  {
+    "chapterid": 26,
+    "noOfVerses": 32,
+    "bookid": 44
+  },
+  {
+    "chapterid": 27,
+    "noOfVerses": 44,
+    "bookid": 44
+  },
+  {
+    "chapterid": 28,
+    "noOfVerses": 31,
+    "bookid": 44
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 32,
+    "bookid": 45
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 29,
+    "bookid": 45
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 31,
+    "bookid": 45
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 25,
+    "bookid": 45
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 21,
+    "bookid": 45
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 23,
+    "bookid": 45
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 25,
+    "bookid": 45
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 39,
+    "bookid": 45
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 33,
+    "bookid": 45
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 21,
+    "bookid": 45
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 36,
+    "bookid": 45
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 21,
+    "bookid": 45
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 14,
+    "bookid": 45
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 23,
+    "bookid": 45
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 33,
+    "bookid": 45
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 27,
+    "bookid": 45
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 31,
+    "bookid": 46
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 16,
+    "bookid": 46
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 23,
+    "bookid": 46
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 21,
+    "bookid": 46
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 13,
+    "bookid": 46
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 20,
+    "bookid": 46
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 40,
+    "bookid": 46
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 13,
+    "bookid": 46
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 27,
+    "bookid": 46
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 33,
+    "bookid": 46
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 34,
+    "bookid": 46
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 31,
+    "bookid": 46
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 13,
+    "bookid": 46
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 40,
+    "bookid": 46
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 58,
+    "bookid": 46
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 24,
+    "bookid": 46
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 24,
+    "bookid": 47
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 17,
+    "bookid": 47
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 18,
+    "bookid": 47
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 18,
+    "bookid": 47
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 21,
+    "bookid": 47
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 18,
+    "bookid": 47
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 16,
+    "bookid": 47
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 24,
+    "bookid": 47
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 15,
+    "bookid": 47
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 18,
+    "bookid": 47
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 33,
+    "bookid": 47
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 21,
+    "bookid": 47
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 14,
+    "bookid": 47
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 24,
+    "bookid": 48
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 21,
+    "bookid": 48
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 29,
+    "bookid": 48
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 31,
+    "bookid": 48
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 26,
+    "bookid": 48
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 18,
+    "bookid": 48
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 23,
+    "bookid": 49
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 22,
+    "bookid": 49
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 21,
+    "bookid": 49
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 32,
+    "bookid": 49
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 33,
+    "bookid": 49
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 24,
+    "bookid": 49
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 30,
+    "bookid": 50
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 30,
+    "bookid": 50
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 21,
+    "bookid": 50
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 23,
+    "bookid": 50
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 29,
+    "bookid": 51
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 23,
+    "bookid": 51
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 25,
+    "bookid": 51
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 18,
+    "bookid": 51
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 10,
+    "bookid": 52
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 20,
+    "bookid": 52
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 13,
+    "bookid": 52
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 18,
+    "bookid": 52
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 28,
+    "bookid": 52
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 12,
+    "bookid": 53
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 17,
+    "bookid": 53
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 18,
+    "bookid": 53
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 20,
+    "bookid": 54
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 15,
+    "bookid": 54
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 16,
+    "bookid": 54
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 16,
+    "bookid": 54
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 25,
+    "bookid": 54
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 21,
+    "bookid": 54
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 18,
+    "bookid": 55
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 26,
+    "bookid": 55
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 17,
+    "bookid": 55
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 22,
+    "bookid": 55
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 16,
+    "bookid": 56
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 15,
+    "bookid": 56
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 15,
+    "bookid": 56
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 25,
+    "bookid": 57
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 14,
+    "bookid": 58
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 18,
+    "bookid": 58
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 19,
+    "bookid": 58
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 16,
+    "bookid": 58
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 14,
+    "bookid": 58
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 20,
+    "bookid": 58
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 28,
+    "bookid": 58
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 13,
+    "bookid": 58
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 28,
+    "bookid": 58
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 39,
+    "bookid": 58
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 40,
+    "bookid": 58
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 29,
+    "bookid": 58
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 25,
+    "bookid": 58
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 27,
+    "bookid": 59
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 26,
+    "bookid": 59
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 18,
+    "bookid": 59
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 17,
+    "bookid": 59
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 20,
+    "bookid": 59
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 25,
+    "bookid": 60
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 25,
+    "bookid": 60
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 22,
+    "bookid": 60
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 19,
+    "bookid": 60
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 14,
+    "bookid": 60
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 21,
+    "bookid": 61
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 22,
+    "bookid": 61
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 18,
+    "bookid": 61
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 10,
+    "bookid": 62
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 29,
+    "bookid": 62
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 24,
+    "bookid": 62
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 13,
+    "bookid": 63
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 15,
+    "bookid": 64
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 25,
+    "bookid": 65
+  },
+  {
+    "chapterid": 1,
+    "noOfVerses": 20,
+    "bookid": 66
+  },
+  {
+    "chapterid": 2,
+    "noOfVerses": 29,
+    "bookid": 66
+  },
+  {
+    "chapterid": 3,
+    "noOfVerses": 22,
+    "bookid": 66
+  },
+  {
+    "chapterid": 4,
+    "noOfVerses": 11,
+    "bookid": 66
+  },
+  {
+    "chapterid": 5,
+    "noOfVerses": 14,
+    "bookid": 66
+  },
+  {
+    "chapterid": 6,
+    "noOfVerses": 17,
+    "bookid": 66
+  },
+  {
+    "chapterid": 7,
+    "noOfVerses": 17,
+    "bookid": 66
+  },
+  {
+    "chapterid": 8,
+    "noOfVerses": 13,
+    "bookid": 66
+  },
+  {
+    "chapterid": 9,
+    "noOfVerses": 21,
+    "bookid": 66
+  },
+  {
+    "chapterid": 10,
+    "noOfVerses": 11,
+    "bookid": 66
+  },
+  {
+    "chapterid": 11,
+    "noOfVerses": 19,
+    "bookid": 66
+  },
+  {
+    "chapterid": 12,
+    "noOfVerses": 17,
+    "bookid": 66
+  },
+  {
+    "chapterid": 13,
+    "noOfVerses": 18,
+    "bookid": 66
+  },
+  {
+    "chapterid": 14,
+    "noOfVerses": 20,
+    "bookid": 66
+  },
+  {
+    "chapterid": 15,
+    "noOfVerses": 8,
+    "bookid": 66
+  },
+  {
+    "chapterid": 16,
+    "noOfVerses": 21,
+    "bookid": 66
+  },
+  {
+    "chapterid": 17,
+    "noOfVerses": 18,
+    "bookid": 66
+  },
+  {
+    "chapterid": 18,
+    "noOfVerses": 24,
+    "bookid": 66
+  },
+  {
+    "chapterid": 19,
+    "noOfVerses": 21,
+    "bookid": 66
+  },
+  {
+    "chapterid": 20,
+    "noOfVerses": 15,
+    "bookid": 66
+  },
+  {
+    "chapterid": 21,
+    "noOfVerses": 27,
+    "bookid": 66
+  },
+  {
+    "chapterid": 22,
+    "noOfVerses": 21,
+    "bookid": 66
+  }
+]

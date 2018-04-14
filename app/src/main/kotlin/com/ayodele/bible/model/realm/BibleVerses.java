@@ -1,4 +1,3 @@
-
 package com.ayodele.bible.model.realm;
 
 import com.google.gson.annotations.Expose;
@@ -6,7 +5,7 @@ import com.google.gson.annotations.SerializedName;
 
 import io.realm.RealmObject;
 
-public class BibleVerses extends RealmObject{
+public class BibleVerses extends RealmObject {
 
     @SerializedName("chapterid")
     @Expose

@@ -7,14 +7,14 @@ import android.support.multidex.MultiDex
 import com.ayodele.bible.di.component.AppComponent
 import com.ayodele.bible.di.component.DaggerAppComponent
 import com.ayodele.bible.di.modules.AppModule
-
 import io.realm.Realm
 import io.realm.RealmConfiguration
 
 class App : Application() {
 
     companion object {
-        @JvmStatic lateinit var component: AppComponent
+        @JvmStatic
+        lateinit var component: AppComponent
     }
 
     override fun onCreate() {

@@ -22,45 +22,50 @@ import com.ayodele.bible.ui.adapters.BibleAdapter
 import com.ayodele.bible.ui.main.MainActivity
 import io.realm.Realm
 import io.realm.RealmResults
-import io.realm.Sort
+import javax.inject.Inject
 
 
 @Suppress("UNUSED_EXPRESSION")
 class BibleFragment : MVPDaggerFragment<BibleContract.View, BiblePresenter, BibleComponent>(), BibleContract.View {
 
-
     override fun createComponent(): BibleComponent = DaggerBibleComponent.builder()
-    .appComponent(App.component)
-    .biblePresenterModule(BiblePresenterModule(activity!!))
-    .build()
+            .appComponent(App.component)
+            .biblePresenterModule(BiblePresenterModule(activity!!, (activity as MainActivity).realm))
+            .build()
 
-    private var realm: Realm? = null
-    private var bibleReadAdapter: BibleAdapter? = null
-    private var readBibleRecyclerView: RecyclerView? = null
 
     @BindView(R.id.bible_book_spinner)
-    @JvmField var bibleBooksSpinner: Spinner? = null
-    @BindView(R.id.chapter_spinner)
-    @JvmField var chapterSpinner: Spinner? = null
-    @BindView(R.id.verse_spinner)
-    @JvmField var verseSpinner: Spinner? = null
+    @JvmField
+    var bibleBooksSpinner: Spinner? = null
 
+    @BindView(R.id.chapter_spinner)
+    @JvmField
+    var chapterSpinner: Spinner? = null
+
+    @BindView(R.id.verse_spinner)
+    @JvmField
+    var verseSpinner: Spinner? = null
+
+    @BindView(R.id.read_bible_recyclerview)
+    @JvmField
+    var readBibleRecyclerView: RecyclerView? = null
+
+    private lateinit var bibleReadAdapter: BibleAdapter
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         val layout = inflater!!.inflate(R.layout.fragment_bible_read, container, false)
         ButterKnife.bind(this, layout)
 
-        realm = (activity as MainActivity).realm
-        val bibleBooks = realm!!.where(BibleBooks::class.java).findAll()
+        val bibleBooks = presenter.bibleBooks
 
         val adapter = ArrayAdapter<BibleBooks>(activity, android.R.layout.simple_spinner_item, bibleBooks)
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
-        bibleBooksSpinner!!.adapter = adapter
+        bibleBooksSpinner?.adapter = adapter
 
-        bibleBooksSpinner!!.onItemSelectedListener = object : AdapterView.OnItemSelectedListener {
+        bibleBooksSpinner?.onItemSelectedListener = object : AdapterView.OnItemSelectedListener {
             override fun onItemSelected(adapterView: AdapterView<*>, view: View, position: Int, l: Long) {
                 if (position >= 0) {
-                    filterChapterByBook(bibleBooks.get(position)?.bookid)
+                    filterChapterByBook(bibleBooks[position]?.bookid)
                 }
             }
 
@@ -71,15 +76,10 @@ class BibleFragment : MVPDaggerFragment<BibleContract.View, BiblePresenter, Bibl
 
         bibleBooksSpinner!!.setSelection(0)
 
-        readBibleRecyclerView = layout.findViewById(R.id.read_bible_recyclerview)
         readBibleRecyclerView!!.layoutManager = LinearLayoutManager(activity)
 
         //firstload
-        val result = realm!!.where(BibleVerses::class.java)
-                .equalTo("bookid", 1.toInt())
-                .equalTo("chapterid", 1.toInt())
-                .sort("verseid", Sort.ASCENDING)
-                .findAll()
+        val result = presenter.getBibleVerseByBookIdAndChapterId(1, 1)
 
         bibleReadAdapter = BibleAdapter(activity as MainActivity, result, 1)
         readBibleRecyclerView!!.adapter = bibleReadAdapter
@@ -89,10 +89,7 @@ class BibleFragment : MVPDaggerFragment<BibleContract.View, BiblePresenter, Bibl
 
     private fun filterChapterByBook(bookId: Int?) {
 
-        val result = realm!!.where(BibleChapter::class.java)
-                .equalTo("bookid", bookId)
-                .sort("chapterid", Sort.ASCENDING)
-                .findAll()
+        val result = presenter.getBibleChaptersByBookId(bookId)
 
         val adapter = ArrayAdapter<BibleChapter>(activity, android.R.layout.simple_spinner_item, result)
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
@@ -134,16 +131,9 @@ class BibleFragment : MVPDaggerFragment<BibleContract.View, BiblePresenter, Bibl
     }
 
     private fun displayVerseAndRespondToClicks(bookId: Int?, chapterId: Int?, verseid: Int?): RealmResults<BibleVerses> {
-
-        val result = realm!!.where(BibleVerses::class.java)
-                .equalTo("bookid", bookId)
-                .equalTo("chapterid", chapterId)
-                .sort("verseid", Sort.ASCENDING)
-                .findAll()
-
-        bibleReadAdapter!!.setBibleVerses(result, verseid!!)
-        readBibleRecyclerView!!.scrollToPosition(verseid!!)
-
+        val result = presenter.getBibleVerseByBookIdAndChapterId(bookId!!,chapterId!!)
+        bibleReadAdapter.setBibleVerses(result, verseid!!)
+        readBibleRecyclerView!!.scrollToPosition(verseid)
         return result
     }
 

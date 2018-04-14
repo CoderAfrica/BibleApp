@@ -31,7 +31,7 @@ class BibleAdapter(private val context: Context, private var bibleVerses: RealmR
         holder.bibleReadTitle.text = verses?.verseid.toString() + " " + verses?.versetext
     }
 
-    override fun getItemCount(): Int  = bibleVerses!!.size
+    override fun getItemCount(): Int = bibleVerses!!.size
 
     class BibleViewHolder(var mView: View) : RecyclerView.ViewHolder(mView) {
         var bibleReadTitle: TextView

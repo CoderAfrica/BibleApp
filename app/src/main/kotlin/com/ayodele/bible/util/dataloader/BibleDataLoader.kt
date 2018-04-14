@@ -1,16 +1,13 @@
 package com.ayodele.bible.util.dataloader
 
 import android.content.Context
-
 import com.ayodele.bible.model.realm.BibleBooks
 import com.ayodele.bible.model.realm.BibleChapter
 import com.ayodele.bible.model.realm.BibleVerses
-
-import java.io.IOException
-import java.io.InputStream
-
 import io.realm.Realm
 import io.realm.RealmObject
+import java.io.IOException
+import java.io.InputStream
 
 object BibleDataLoader {
 

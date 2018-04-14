@@ -1,13 +1,13 @@
 package com.ayodele.bible.ui.splash
 
-import android.support.v7.app.AppCompatActivity
-import android.os.Bundle
-import com.ayodele.bible.R
-import io.realm.Realm
 import android.content.Intent
+import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
+import com.ayodele.bible.R
 import com.ayodele.bible.service.DataLoaderService
 import com.ayodele.bible.ui.main.MainActivity
 import com.ayodele.bible.util.dataloader.BibleDataLoader
+import io.realm.Realm
 
 class SplashActivity : AppCompatActivity() {
 

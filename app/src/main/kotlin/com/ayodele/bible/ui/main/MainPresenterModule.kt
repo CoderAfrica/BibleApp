@@ -4,6 +4,7 @@ import android.content.Context
 import com.ayodele.bible.di.scope.ActivityScope
 import dagger.Module
 import dagger.Provides
+import io.realm.Realm
 
 
 @Module
@@ -14,4 +15,5 @@ class MainPresenterModule(private val context: Context) {
     fun provideContext(): Context {
         return context
     }
+
 }
