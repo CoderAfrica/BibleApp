@@ -20,9 +20,7 @@ import com.ayodele.bible.model.realm.BibleChapter
 import com.ayodele.bible.model.realm.BibleVerses
 import com.ayodele.bible.ui.adapters.BibleAdapter
 import com.ayodele.bible.ui.main.MainActivity
-import io.realm.Realm
 import io.realm.RealmResults
-import javax.inject.Inject
 
 
 @Suppress("UNUSED_EXPRESSION")
@@ -65,7 +63,9 @@ class BibleFragment : MVPDaggerFragment<BibleContract.View, BiblePresenter, Bibl
         bibleBooksSpinner?.onItemSelectedListener = object : AdapterView.OnItemSelectedListener {
             override fun onItemSelected(adapterView: AdapterView<*>, view: View, position: Int, l: Long) {
                 if (position >= 0) {
-                    filterChapterByBook(bibleBooks[position]?.bookid)
+                    val bookId = bibleBooks[position]?.bookid
+                    val chaptersInBook = presenter.getBibleChaptersByBookId(bookId)
+                    getChapterByBook(bookId, chaptersInBook)
                 }
             }
 
@@ -79,26 +79,29 @@ class BibleFragment : MVPDaggerFragment<BibleContract.View, BiblePresenter, Bibl
         readBibleRecyclerView!!.layoutManager = LinearLayoutManager(activity)
 
         //firstload
-        val result = presenter.getBibleVerseByBookIdAndChapterId(1, 1)
-
-        bibleReadAdapter = BibleAdapter(activity as MainActivity, result, 1)
-        readBibleRecyclerView!!.adapter = bibleReadAdapter
+        showInitialView(1,1)
 
         return layout
     }
 
-    private fun filterChapterByBook(bookId: Int?) {
+    override fun showInitialView(bookId : Int, chapterId: Int) {
+        val result = presenter.getBibleVerseByBookIdAndChapterId(bookId, chapterId)
+        bibleReadAdapter = BibleAdapter(activity as MainActivity, result, 1)
+        readBibleRecyclerView!!.adapter = bibleReadAdapter
+    }
 
-        val result = presenter.getBibleChaptersByBookId(bookId)
+    override fun getChapterByBook(bookId: Int?, chaptersInBook: RealmResults<BibleChapter>) {
 
-        val adapter = ArrayAdapter<BibleChapter>(activity, android.R.layout.simple_spinner_item, result)
+        val adapter = ArrayAdapter<BibleChapter>(activity, android.R.layout.simple_spinner_item, chaptersInBook)
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
         chapterSpinner!!.adapter = adapter
 
         chapterSpinner!!.onItemSelectedListener = object : AdapterView.OnItemSelectedListener {
             override fun onItemSelected(adapterView: AdapterView<*>, view: View, position: Int, l: Long) {
                 if (position >= 0) {
-                    filterVersesByChapter(bookId, result.get(position)?.chapterid)
+                    val chapterId = chaptersInBook[position]?.chapterid
+                    val result = displayVerseAndRespondToClicks(bookId, chapterId, 1) //Start from the first verse
+                    getVersesByChapter(bookId, chapterId, result)
                 }
             }
 
@@ -109,18 +112,16 @@ class BibleFragment : MVPDaggerFragment<BibleContract.View, BiblePresenter, Bibl
         chapterSpinner!!.setSelection(0)
     }
 
-    private fun filterVersesByChapter(bookId: Int?, chapterId: Int?) {
+    override fun getVersesByChapter(bookId: Int?, chapterId: Int?, versesInChapter : RealmResults<BibleVerses>) {
 
-        val result = displayVerseAndRespondToClicks(bookId, chapterId, 1)
-
-        val adapter = ArrayAdapter<BibleVerses>(activity, android.R.layout.simple_spinner_item, result)
+        val adapter = ArrayAdapter<BibleVerses>(activity, android.R.layout.simple_spinner_item, versesInChapter)
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item)
         verseSpinner!!.adapter = adapter
 
         verseSpinner!!.onItemSelectedListener = object : AdapterView.OnItemSelectedListener {
             override fun onItemSelected(adapterView: AdapterView<*>, view: View, position: Int, l: Long) {
                 if (position >= 0) {
-                    displayVerseAndRespondToClicks(bookId, chapterId, result[position]?.verseid)
+                    displayVerseAndRespondToClicks(bookId, chapterId, versesInChapter[position]?.verseid)
                 }
             }
 
@@ -130,10 +131,10 @@ class BibleFragment : MVPDaggerFragment<BibleContract.View, BiblePresenter, Bibl
         }
     }
 
-    private fun displayVerseAndRespondToClicks(bookId: Int?, chapterId: Int?, verseid: Int?): RealmResults<BibleVerses> {
+    private fun displayVerseAndRespondToClicks(bookId: Int?, chapterId: Int?, verseId: Int?): RealmResults<BibleVerses> {
         val result = presenter.getBibleVerseByBookIdAndChapterId(bookId!!,chapterId!!)
-        bibleReadAdapter.setBibleVerses(result, verseid!!)
-        readBibleRecyclerView!!.scrollToPosition(verseid)
+        bibleReadAdapter.setBibleVerses(result, verseId!!)
+        readBibleRecyclerView!!.scrollToPosition(verseId)
         return result
     }
 

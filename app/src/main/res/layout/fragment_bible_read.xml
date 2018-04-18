@@ -9,10 +9,11 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.ayodele.bible.ui.fragments.BibleFragment">
+    tools:context="com.ayodele.bible.ui.bible.BibleFragment">
 
 
     <Spinner
+        android:minHeight="30dp"
         android:id="@+id/bible_book_spinner"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -23,6 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/bible_book_spinner"
         android:layout_margin="5dp"
+        android:minHeight="30dp"
         android:orientation="horizontal"
         android:weightSum="2">
 
@@ -30,14 +32,14 @@
             android:id="@+id/chapter_spinner"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="5dp"
+            android:padding="5dp"
             android:layout_weight="1" />
 
         <Spinner
             android:id="@+id/verse_spinner"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="5dp"
+            android:padding="5dp"
             android:layout_weight="1" />
     </LinearLayout>
 

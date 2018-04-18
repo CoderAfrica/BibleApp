@@ -8,7 +8,11 @@ import io.realm.RealmResults
 
 
 interface BibleContract {
-    interface View : MVPContract.View
+    interface View : MVPContract.View {
+        fun showInitialView(bookId : Int, chapterId: Int)
+        fun getChapterByBook(bookId: Int?, chaptersInBook: RealmResults<BibleChapter>)
+        fun getVersesByChapter(bookId: Int?, chapterId: Int?, versesInChapter : RealmResults<BibleVerses>)
+    }
 
     interface Presenter<V : View> : MVPContract.Presenter<V> {
         val bibleBooks: RealmResults<BibleBooks>

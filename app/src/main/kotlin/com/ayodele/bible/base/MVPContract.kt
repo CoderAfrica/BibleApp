@@ -1,8 +1,7 @@
 package com.ayodele.bible.base
 
 interface MVPContract {
-    interface View {
-    }
+    interface View
 
     interface Presenter<V : View> {
         fun getView(): V?
